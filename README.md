@@ -48,7 +48,7 @@ Disclamers :
 
 NO creature support
 
-Rape is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. The main way is if you're defeated in combat or if you choose some specific start options, so if you wanna avoid it just dont die (and be rich). There is however slavery but you will see it coming (heh).
+Rape is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. The main way is if you're defeated in combat or if you choose some specific start options, so if you wanna avoid it just dont die (and be rich). There is however slavery but you will see it coming (-ish).
 
 The mods :
 

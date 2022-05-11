@@ -123,4 +123,6 @@ The Wabbajack Team for Wabbajack
 
 The makers of xEdit, Synthesis, xLodGen, DynDOLOD, Bodyslide and other amazing tools
 
+ForgottenGlory for the defunct DNDDC modlist which was a large inspiration for NERAFAM
+
 And You for playing and hopefully enjoying the modlist :)

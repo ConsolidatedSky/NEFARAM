@@ -41,10 +41,10 @@ A lot of mods to make the game's economy feel alive with prices flucuations depe
 Many quests revamped : [Jayserpa](https://www.nexusmods.com/skyrimspecialedition/users/5201727?tab=user+files)'s quests, and tweaks to pretty much all of Skyrim's factions but the big ones are [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673), [Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748/), [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061)
 
 ## Followers
-3DNPCs, Inigo, Serana Add-On, Mythos, Lucien, Morgaine and others...
+3DNPCs, Inigo, Serana Add-On, Mythos, Lucien, Morgaine and lots of others...
 
 ## Armors & Outfits
-Some new armors that are mostly variants of vanilla ones that i tried to keep """lore-friendly""" and """immersive""" as much as possible... Integrated into the game with custom rebalanced crafting costs and conditions, The skimpiness is mostly contained in a tasteful way to TAWOBA. All armors and outfits added are balanced and integrated into the world. That includes the Creation Club content.
+Some new armors that are mostly variants of vanilla ones that i tried to keep "lore-friendly" and "immersive" as much as possible... Integrated into the game with custom rebalanced crafting costs and conditions, The skimpiness is mostly contained in a tasteful way to TAWOBA. All armors and outfits added are balanced and integrated into the world. That includes the Creation Club content.
 
 ## And More
 Cities and landcapes overhauls, roleplay mods and animations...
@@ -82,14 +82,23 @@ Public Whore : same as above, but different.
 
 Sexlab Survival : LOTS of stuff here, also lots of stuff disabled by default in the modlist. But basically : Do something wrong and suffer the consequences. and there are a lot more consequences than just a fine or jail... Also includes bikini system : you will progressively get buffs if you wear some but you will suffer debuffs if you wear regular armors again.
 
-Quests : Amorous adventures, Book of Mara, Sister of Dibella, and some vanilla ones tweaked to include the possibility of sex. The big one is Trouble of Heroine but it is optional because it is perhaps the most extreme one in this modlist (humiliation, rape, the whole shebang) and on tope of that I disabled the ones I tested that I found borderline or too annoying. However among all of this there is some very good stuff in there.
+Quests : Amorous adventures, Book of Mara, Sister of Dibella, and some vanilla ones tweaked to include the possibility of sex. The big one is Trouble of Heroine, it adds NPCs with more or less big quests (like 3DNPCs) but it is optional because it is perhaps the most extreme one in this modlist (humiliation, rape, the whole shebang) in the MCM of that I disabled the ones I tested that I found borderline or too annoying. However among all of this there is some very good stuff in there.
 
+Sexual Fame Comments : NPCs will gossip and react on what you do around them.
 
+Lots of ambiant stuff surrounding the dark and harsh society that is Skyrim during a civil war.
 
-## Final Steps
+## Final Steps - Ingame
+### Initial Actions
+After creating your character (NEEDS to be a woman), wait until there's no more messages appearing on the top left (can take a couple minutes). Then Go to MCM>MCM Recorder>Click on NEFARAM and follow the Instructions>Click Run Recording. You will get messages on the top left again and even some popups appearing. This part can take up to 5 minutes, And even if nothing seems to be happening, something is happening. Wait until the Popup "NEFARAM has finished playing" appears.
+
+### Some functions could not be recorded to MCM Recorder, so you have to do it manually :
+MCM>Wetfuction Redux>Target>Select target (your character name)>Then a bit under Start Effect
+
+### DONE ! You can save and never have to do this again ! Unless you update the list of course ;)
 
 ## Credits
-The Animonculary Team for AVO 1.3 which this modlist is built upon : Althro, Styyx, Chef/Para0x, The Spaniardn, GuitarBarbarian, Annakins, Astro,DestinySlayer
+The Animonculary Team for AVO 1.3 which this modlist is built upon, perfect balance between graphics and performance : Althro, Styyx, Chef/Para0x, The Spaniardn, GuitarBarbarian, Annakins, Astro,DestinySlayer
 
 All the mod authors whose mods are included here that put a lot of work into them
 

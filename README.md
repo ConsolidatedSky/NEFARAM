@@ -56,7 +56,7 @@ Cities and landcapes overhauls, roleplay mods and animations...
 
 NO creature support
 
-Rape is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. The main way is if you're defeated in combat or if you choose some specific start options, so if you wanna avoid it just dont die (and be rich). There is however slavery but you will see it coming (-ish).
+Rape is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. The main way is if you're defeated in combat or if you choose some specific start options, so if you wanna avoid it just dont die (and be rich). There is however slavery both of you and others but you will see it coming (more or less).
 
 ## The mods :
 
@@ -66,7 +66,7 @@ OSL Aroused : your character can get horny. Lots of stuff tied to this so as an 
 
 Devious Devices : more of a framework for other mods but introduces bondage gear in Skyrim. I recommend you try to understand a bit how it works or it can become more frustrating than it should be.
 
-Deviously Cursed Loot : Skyrim has always been plagued by rogue magic surrounding loot to ward off thiefs, but the spells have gone out of control and can now curse the naive (horny) adventurers... as you see, very lore friendly ! A lot of stuff disabled in the MCM of the modlist but you're welcome to reenable them if thats your wish. Basically : If your character is horny while opening a chest they have a chance to equip devious devices.
+Deviously Cursed Loot : Skyrim has always been plagued by rogue magic surrounding loot to ward off thiefs, but the spells have gone out of control and can now curse the naive (horny) adventurers... as you see, very lore friendly ! A lot of stuff disabled in the MCM of the modlist but you're welcome to reenable them if thats your wish. Basically : If your character is horny while opening a chest they have a chance to equip devious devices. To do the main quest of that mod, which I recommend to do once and only once, you need to go to Helgen and near the torture room to find Chloe.
 
 Devious followers : You thought people would help you for free? They want a cut, and if you can't pay, they will find other ways to make you...
 
@@ -78,9 +78,9 @@ Corruption : When they are hit hard by enemies, or when they get raped, your cha
 
 Radiant Prostitution : You need to order that sword from Eorlund Gray-Mane, but he's asking for a lot of money, so you can save up for it the old-fashioned way. Includes add-on to make your follower your pimp.
 
-Public Whore : same as above, but different.
+Public Whore : same as above, but different. 
 
-Sexlab Survival : LOTS of stuff here, also lots of stuff disabled by default in the modlist. But basically : Do something wrong and suffer the consequences. and there are a lot more consequences than just a fine or jail... Also includes bikini system : you will progressively get buffs if you wear some but you will suffer debuffs if you wear regular armors again.
+Sexlab Survival : LOTS of stuff here, also lots of stuff disabled by default in the modlist. But basically : Do something wrong in cities and suffer the consequences. and there are a lot more consequences than just a fine or jail... Also includes bikini system : you will progressively get buffs if you wear some but you will suffer debuffs if you wear regular armors again. You can enable some options back but it can get very intrusive.
 
 Quests : Amorous adventures, Book of Mara, Sister of Dibella, and some vanilla ones tweaked to include the possibility of sex. The big one is Trouble of Heroine, it adds NPCs with more or less big quests (like 3DNPCs) but it is optional because it is perhaps the most extreme one in this modlist (humiliation, rape, the whole shebang). By default I disabled the ones I tested that I found borderline or too annoying. However among all of this there is some good stuff in there.
 
@@ -95,7 +95,21 @@ After creating your character (NEEDS to be a woman), wait until there's no more 
 ### Some functions could not be recorded to MCM Recorder, so you have to do it manually :
 MCM>Wetfuction Redux>Target>Select target (your character name)>Then a bit under Start Effect
 
+### Final notes :
+You can modify your body type with OBody (Press F10). You can add your own custome CBBE 3BA body preset into ModOrganizer and it'll work out of the box, no need to rerun Bodyslide.
+
+All debug spells are located in your Powers Keyring Power
+
+The Notification Log MCM is very useful to read what you might've missed ingame.
+
 ### DONE ! You can save and never have to do this again ! Unless you update the list of course ;)
+
+## Known Bugs
+The list is stable and you should not have too many CTDs however as I couldnt test thoroughly all the quests i put in there, so there might be some bugs there (especially the loverlab quests, full of ideas but the execution is variable). If you report those to me I can help and incorporate the bugfixes into next releases.
+
+Some clothes which are supposed to be translucent sometimes have weird reflections or opacity due to ENB light at night or in interiors.
+Schlongs of Skyrim can interfere with some underwear (phantom dick bug)
+When you want to dismiss a follower sometimes they are not dismissed, thats because they are still a Devious Follower. I need to manually patch all dialogues... Ill get around to it someday.
 
 ## Credits
 The Animonculary Team for AVO 1.3 which this modlist is built upon, perfect balance between graphics and performance : Althro, Styyx, Chef/Para0x, The Spaniardn, GuitarBarbarian, Annakins, Astro,DestinySlayer

@@ -27,7 +27,7 @@ That brings us to the core of NEFARAM-combat: You need to delegate some parts of
 # Main Mods you should know about
 
 ## Visuals
-Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md#credits-and-thanks) (very gorgeous yet performance friendly) heavily modified.
+Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md) (very gorgeous yet performance friendly) heavily modified.
 
 ## Combat
 lots of tweaks with [Simonrim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files), [Stamina matters](https://www.nexusmods.com/skyrimspecialedition/mods/50502), [Smart NPC potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) (with [animations !](https://www.nexusmods.com/skyrimspecialedition/mods/45182)), [True Unleveled Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/56881/), [NPCStatRescaler](https://github.com/theSkyseS/NPCStatRescaler) and more.

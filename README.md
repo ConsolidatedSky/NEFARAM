@@ -1,9 +1,20 @@
 # NEFARAM
-
+License CC BY-NC-SA 4.0
 ## Preamble
-NEFARAM is a very NSFW modlist with lots of new content yet balanced around a deleveled world. current version requires a woman character.
+NEFARAM is a unique NSFW modlist with lots of new content yet balanced around a deleveled world. Graphics based on AVO 1.3current version requires a woman character.
 ## Requirements
 Latest Version of Skyrim Anniversary Edition WITH the paid Creation Club content.
+
+
+GPU : RTX2060 should get you 60 FPS almost everywhere.
+
+Increase your pagefile (recommended : 40 GB)
+
+Size : 150 GB ( and another 150 for the downloads). Put the modlist on an SSD
+
+Wide Screens not tested
+
+Made for keyboard playing.
 ## Installation
 With Wabbajack
 ## What make NEFARAM unique :
@@ -23,7 +34,7 @@ A lot of Economy mods to make the game's economy feel alive with prices flucuati
 
 Combat
 
-lots of tweaks with Simonrim, Stamina matters, Smart NPC potions (with animations !)  True Unleveled Skyrim, NPCRebalance...
+lots of tweaks with Simonrim, Stamina matters, Smart NPC potions (with animations !), True Unleveled Skyrim, NPCRebalance and more
 
 Quests
 
@@ -35,16 +46,16 @@ Followers
 
 Armors & Outfits
 
-Some new armors that are mostly variants of vanilla ones that i tried to keep """lore-friendly""" and """immersive""" as much as possible... Integrated into the game with custom rebalanced crafting costs and conditions, The skimpiness is mostly contained in a tasteful way.
+Some new armors that are mostly variants of vanilla ones that i tried to keep """lore-friendly""" and """immersive""" as much as possible... Integrated into the game with custom rebalanced crafting costs and conditions, The skimpiness is mostly contained in a tasteful way to TAWOBA. All armors and outfits added are balanced and integrated into the world. That includes the Creation Club content.
 
 And More
 
-Cities Overhauls, Roleplay mods and animations...
+Cities and landcapes overhauls, roleplay mods and animations...
  
 
 ## Important NSFW mods you should know about
 
-Disclamers :
+### Disclamers :
 
 NO creature support
 
@@ -79,3 +90,14 @@ Quests : Amorous adventures, Book of Mara, Sister of Dibella, and some vanilla o
 
 
 ## Final Steps
+
+## Credits
+The Animonculary Team for AVO 1.3 which this modlist is built upon : Althro, Styyx, Chef/Para0x, The Spaniardn, GuitarBarbarian, Annakins, Astro,DestinySlayer
+
+All the mod authors whose mods are included here that put a lot of work into them
+
+The Wabbajack Team for Wabbajack
+
+The makers of xEdit, Synthesis, xLodGen, DynDOLOD, Bodyslide and other amazing tools
+
+And You for playing and hopefully enjoying the modlist :)

@@ -1,8 +1,8 @@
 # NEFARAM
 License CC BY-NC-SA 4.0
-## Preamble
-NEFARAM is a unique NSFW modlist with lots of new content yet balanced around a deleveled world. Graphics based on AVO 1.3current version requires a woman character.
-## Requirements
+# Preamble
+NEFARAM is a unique NSFW modlist with lots of new content yet balanced around a deleveled world. Based on AVO 1.3. Current version requires a woman character.
+# Requirements
 Latest Version of Skyrim Anniversary Edition WITH the paid Creation Club content.
 
 
@@ -15,53 +15,49 @@ Size : 150 GB ( and another 150 for the downloads). Put the modlist on an SSD
 Wide Screens not tested
 
 Made for keyboard playing.
-## Installation
+# Installation
 With Wabbajack
-## What make NEFARAM unique :
+# What make NEFARAM unique :
 The world is deleveled, meaning enemies are as strong as they should be, independent of your own level. basically, every tool you as a player have, expect your enemies to potentially have them : skills, spells, potions, perks, etc
 Each type of enemy and armor type has weaknesses and strenghs, meaning you cannot deal only one type of damage : dont expect to clear a nordic ruin full of undeads with only a bow ! Did I mention you can only regenerate health with potions or spells?
 
 That brings us to the core of NEFARAM-combat: You need to delegate some parts of it to followers. You need a Tank to handle the melee enemies, a mage to ice those Dwemer centurions, perhaps a healer would be a good idea... You get the idea. Over time, you will be able to recruit more followers as your skill increases. But remember, this is a harsh world and almost nobody is your friend here...
 
-## Main Mods you should know about (theres a lot!)
+# Main Mods you should know about (theres a lot!)
 
-Visuals
-  Based on Animonculary Visual Overhaul 1.3 (very gorgeous yet performance friendly) with a lot of tweaks
+## Visuals
+Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md#credits-and-thanks) (very gorgeous yet performance friendly) with a lot of tweaks
 
-Balance
+## Combat
+lots of tweaks with [Simonrim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files), [Stamina matters](https://www.nexusmods.com/skyrimspecialedition/mods/50502), [Smart NPC potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) (with [animations !](https://www.nexusmods.com/skyrimspecialedition/mods/45182)), [True Unleveled Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/56881/), [NPCStatRescaler](https://github.com/theSkyseS/NPCStatRescaler) and more.
 
-A lot of Economy mods to make the game's economy feel alive with prices flucuations depending on a lot of factors. As you cannot invest in all skills you have opportunities for gold sinks to alleviates some of your weaknesses (No smithing? you can order a new armor from a blacksmith for example) as well as very creative loverslab money sinks...
+## Economy
+A lot of mods to make the game's economy feel alive with prices flucuations depending on a lot of factors. As you cannot invest in all skills you have opportunities for gold sinks to alleviates some of your weaknesses (No smithing? you can [order a new armor from a blacksmith](https://www.nexusmods.com/skyrimspecialedition/mods/51254) for example) as well as very creative loverslab money sinks...
 
-Combat
 
-lots of tweaks with Simonrim, Stamina matters, Smart NPC potions (with animations !), True Unleveled Skyrim, NPCRebalance and more
 
-Quests
+## Quests
+Many quests revamped : [Jayserpa](https://www.nexusmods.com/skyrimspecialedition/users/5201727?tab=user+files)'s quests, and tweaks to pretty much all of Skyrim's factions but the big ones are [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673), [Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748/), [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061)
 
-Many quests revamped : Jayserpa's quests, and tweaks to pretty much all of Skyrim's factions but the big ones are Wyrmstooth, Helgen Reborn, Wheels of Lull, Penitus Oculatus
-
-Followers
-
+## Followers
 3DNPCs, Inigo, Serana Add-On, Mythos, Lucien, Morgaine and others...
 
-Armors & Outfits
-
+## Armors & Outfits
 Some new armors that are mostly variants of vanilla ones that i tried to keep """lore-friendly""" and """immersive""" as much as possible... Integrated into the game with custom rebalanced crafting costs and conditions, The skimpiness is mostly contained in a tasteful way to TAWOBA. All armors and outfits added are balanced and integrated into the world. That includes the Creation Club content.
 
-And More
-
+## And More
 Cities and landcapes overhauls, roleplay mods and animations...
  
 
-## Important NSFW mods you should know about
+# Important NSFW mods you should know about
 
-### Disclamers :
+## Disclamers :
 
 NO creature support
 
 Rape is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. The main way is if you're defeated in combat or if you choose some specific start options, so if you wanna avoid it just dont die (and be rich). There is however slavery but you will see it coming (-ish).
 
-The mods :
+## The mods :
 
 based on Sexlab Framework
 

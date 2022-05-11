@@ -24,7 +24,7 @@ Each type of enemy and armor type has weaknesses and strenghs, meaning you canno
 
 That brings us to the core of NEFARAM-combat: You need to delegate some parts of it to followers. You need a Tank to handle the melee enemies, a mage to ice those Dwemer centurions, perhaps a healer would be a good idea... You get the idea. Over time, you will be able to recruit more followers as your skill increases. But remember, this is a harsh world and almost nobody is your friend here...
 
-# Main Mods you should know about (theres a lot!)
+# Main Mods you should know about
 
 ## Visuals
 Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md#credits-and-thanks) (very gorgeous yet performance friendly) heavily modified.

@@ -33,7 +33,7 @@ Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/
 lots of tweaks with [Simonrim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files), [Stamina matters](https://www.nexusmods.com/skyrimspecialedition/mods/50502), [Smart NPC potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) (with [animations !](https://www.nexusmods.com/skyrimspecialedition/mods/45182)), [True Unleveled Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/56881/), [NPCStatRescaler](https://github.com/theSkyseS/NPCStatRescaler) and more.
 
 ## Economy
-A lot of mods to make the game's economy feel alive with prices flucuations depending on a lot of factors. As you cannot invest in all skills you have opportunities for gold sinks to alleviates some of your weaknesses (No smithing? you can [order a new armor from a blacksmith](https://www.nexusmods.com/skyrimspecialedition/mods/51254) for example) as well as very creative loverslab money sinks...
+A lot of mods to make the game's economy feel alive with prices fluctuations depending on a lot of factors. As you cannot invest in all skills you have opportunities for gold sinks to alleviates some of your weaknesses (No smithing? you can [order a new armor from a blacksmith](https://www.nexusmods.com/skyrimspecialedition/mods/51254) for example) as well as very creative loverslab money sinks...
 
 
 

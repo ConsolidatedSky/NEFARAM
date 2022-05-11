@@ -8,11 +8,11 @@ Latest Version of Skyrim Anniversary Edition WITH the paid Creation Club content
 
 GPU : RTX2060 should get you 60 FPS almost everywhere.
 
-Increase your pagefile (recommended : 40 GB)
+Increase your pagefile (recommended : 40 GB).
 
-Size : 150 GB ( and another 150 for the downloads). Put the modlist on an SSD
+Size : 150 GB ( and another 150 for the downloads). Put the modlist on an SSD please.
 
-Wide Screens not tested
+Wide Screens not tested.
 
 Made for keyboard playing.
 # Installation
@@ -27,7 +27,7 @@ That brings us to the core of NEFARAM-combat: You need to delegate some parts of
 # Main Mods you should know about (theres a lot!)
 
 ## Visuals
-Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md#credits-and-thanks) (very gorgeous yet performance friendly) with a lot of tweaks
+Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md#credits-and-thanks) (very gorgeous yet performance friendly) heavily modified.
 
 ## Combat
 lots of tweaks with [Simonrim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files), [Stamina matters](https://www.nexusmods.com/skyrimspecialedition/mods/50502), [Smart NPC potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) (with [animations !](https://www.nexusmods.com/skyrimspecialedition/mods/45182)), [True Unleveled Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/56881/), [NPCStatRescaler](https://github.com/theSkyseS/NPCStatRescaler) and more.
@@ -70,7 +70,7 @@ Deviously Cursed Loot : Skyrim has always been plagued by rogue magic surroundin
 
 Devious followers : You thought people would help you for free? They want a cut, and if you can't pay, they will find other ways to make you...
 
-Milk Mod Economy : You can make milk and sell it
+Milk Mod Economy : You can make milk and sell it.
 
 Battlefuck : The defeat mod. All defeat mods are bugged but so far this is the one that works most IMO. You can safely disable it BEFORE you start a new game but once you play with it you're stuck with it ! When you reach 0 health against humanoid enemies you are downed. Your followers can revive you. If they also are downed or if you dont have any then theres a minigame to avoid being raped. If you fail you can also be robbed of your gold, items, and can faint. If you do, you wake up in random places with sometimes very game changing consequences (that are never good). So avoid dying. The mod is quite script heavy so sometimes you have to wait a bit before actions start being made.
 

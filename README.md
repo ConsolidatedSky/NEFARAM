@@ -51,14 +51,13 @@ Cities and landcapes overhauls, roleplay mods and animations...
 
 # Important NSFW mods you should know about
 
-## Disclamers :
+## Disclamer
 
 NO creature support
 
-Non-consent(Rape) is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. The main way is if you're defeated in combat or if you choose some specific start options, so if you wanna avoid it just dont die (and be rich). There is however slavery both of you and others but you will see it coming (more or less). There is however some coercion going on, which is still rape IRL but different mechanics ingame.
+Non-consent(Rape) is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. The main way is if you're defeated in combat or if you choose some specific start options, so if you wanna avoid it just dont die (and be rich). There is however slavery both of you and others but you will see it coming (more or less). There is however some coercion going on, which is considered rape IRL but different mechanics ingame.
 
-## The mods :
-
+## The mods
 based on Sexlab Framework
 
 OSL Aroused : your character can get horny. Lots of stuff tied to this so as an advice its best to try to keep it down if you dont want to have unwanted consequences...
@@ -86,6 +85,10 @@ Quests : Amorous adventures, Book of Mara, Sister of Dibella, and some vanilla o
 Sexual Fame Comments : NPCs will gossip and react on what you do around them.
 
 Lots of ambiant stuff surrounding the dark and harsh society that is Skyrim during a civil war.
+
+### About immersion
+I tried to keep all the mods above as integrated as possible into the game and not feel too out of place, but some of them would require extensive patching to remove the way out there stuff (looking at you DCL), so some things like dialogue or some Devious Devices outfits can feel out of place but the trade-off is usually worth it.
+
 
 ## Final Steps - Ingame
 ### Initial Actions

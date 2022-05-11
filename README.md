@@ -82,7 +82,7 @@ Public Whore : same as above, but different.
 
 Sexlab Survival : LOTS of stuff here, also lots of stuff disabled by default in the modlist. But basically : Do something wrong and suffer the consequences. and there are a lot more consequences than just a fine or jail... Also includes bikini system : you will progressively get buffs if you wear some but you will suffer debuffs if you wear regular armors again.
 
-Quests : Amorous adventures, Book of Mara, Sister of Dibella, and some vanilla ones tweaked to include the possibility of sex. The big one is Trouble of Heroine, it adds NPCs with more or less big quests (like 3DNPCs) but it is optional because it is perhaps the most extreme one in this modlist (humiliation, rape, the whole shebang) in the MCM of that I disabled the ones I tested that I found borderline or too annoying. However among all of this there is some very good stuff in there.
+Quests : Amorous adventures, Book of Mara, Sister of Dibella, and some vanilla ones tweaked to include the possibility of sex. The big one is Trouble of Heroine, it adds NPCs with more or less big quests (like 3DNPCs) but it is optional because it is perhaps the most extreme one in this modlist (humiliation, rape, the whole shebang). By default I disabled the ones I tested that I found borderline or too annoying. However among all of this there is some good stuff in there.
 
 Sexual Fame Comments : NPCs will gossip and react on what you do around them.
 

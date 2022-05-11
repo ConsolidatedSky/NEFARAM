@@ -64,7 +64,7 @@ based on Sexlab Framework
 
 OSL Aroused : your character can get horny. Lots of stuff tied to this so as an advice its best to try to keep it down if you dont want to have unwanted consequences...
 
-Devious Devices : more of a framework for other mods but introduces bondage gear in Skyrim. I recommend you try to understand a bit how it works or it can become frustrating.
+Devious Devices : more of a framework for other mods but introduces bondage gear in Skyrim. I recommend you try to understand a bit how it works or it can become more frustrating than it should be.
 
 Deviously Cursed Loot : Skyrim has always been plagued by rogue magic surrounding loot to ward off thiefs, but the spells have gone out of control and can now curse the naive (horny) adventurers... as you see, very lore friendly ! A lot of stuff disabled in the MCM of the modlist but you're welcome to reenable them if thats your wish. Basically : If your character is horny while opening a chest they have a chance to equip devious devices.
 

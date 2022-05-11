@@ -48,7 +48,6 @@ Some new armors that are mostly variants of vanilla ones that i tried to keep "l
 
 ## And More
 Cities and landcapes overhauls, roleplay mods and animations...
- 
 
 # Important NSFW mods you should know about
 
@@ -96,7 +95,7 @@ After creating your character (NEEDS to be a woman), wait until there's no more 
 MCM>Wetfuction Redux>Target>Select target (your character name)>Then a bit under Start Effect
 
 ### Final notes :
-You can modify your body type with OBody (Press F10). You can add your own custome CBBE 3BA body preset into ModOrganizer and it'll work out of the box, no need to rerun Bodyslide.
+You can modify your body type with OBody (Press F10). You can add your own custom CBBE 3BA body preset into ModOrganizer and it'll work out of the box, no need to rerun Bodyslide.
 
 All debug spells are located in your Powers Keyring Power
 

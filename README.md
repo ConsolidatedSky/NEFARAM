@@ -44,7 +44,7 @@ Many quests revamped : [Jayserpa](https://www.nexusmods.com/skyrimspecialedition
 3DNPCs, Inigo, Serana Add-On, Mythos, Lucien, Morgaine and lots of others...
 
 ## Armors & Outfits
-Some new armors that are mostly variants of vanilla ones that i tried to keep "lore-friendly" and "immersive" as much as possible... Integrated into the game with custom rebalanced crafting costs and conditions, The skimpiness is mostly contained in a tasteful way to TAWOBA. All armors and outfits added are balanced and integrated into the world. That includes the Creation Club content.
+Some new armors that are mostly variants of vanilla ones that i tried to keep "lore-friendly" and "immersive" as much as possible... Integrated into the game with custom rebalanced crafting costs and conditions, The skimpiness is mostly contained in a tasteful way to TAWOBA. All armors and outfits added are balanced and integrated into the world. That includes the Creation Club content. Im open to suggestions though I need to integrate each item manually so I go slowly on that.
 
 ## And More
 Cities and landcapes overhauls, roleplay mods and animations...

@@ -64,7 +64,7 @@ based on Sexlab Framework
 
 OSL Aroused : your character can get horny. Lots of stuff tied to this so as an advice its best to try to keep it down if you dont want to have unwanted consequences...
 
-Devious Devices : more of a framework for other mods but introduces bondage gear in Skyrim. I recommend you try to understand a bit how it works or it can become more frustrating than it should be.
+Devious Devices : more of a framework for other mods but introduces bondage gear in Skyrim. I recommend you try to understand a bit how it works or it can become more frustrating than it is supposed to be.
 
 Deviously Cursed Loot : Skyrim has always been plagued by rogue magic surrounding loot to ward off thiefs, but the spells have gone out of control and can now curse the naive (horny) adventurers... as you see, very lore friendly ! A lot of stuff disabled in the MCM of the modlist but you're welcome to reenable them if thats your wish. Basically : If your character is horny while opening a chest they have a chance to equip devious devices. To do the main quest of that mod, which I recommend to do once and only once, you need to go to Helgen and near the torture room to find Chloe.
 
@@ -90,7 +90,7 @@ Lots of ambiant stuff surrounding the dark and harsh society that is Skyrim duri
 
 ## Final Steps - Ingame
 ### Initial Actions
-After creating your character (NEEDS to be a woman), wait until there's no more messages appearing on the top left (can take a couple minutes). Then Go to MCM>MCM Recorder>Click on NEFARAM and follow the Instructions>Click Run Recording. You will get messages on the top left again and even some popups appearing. This part can take up to 5 minutes, And even if nothing seems to be happening, something is happening. Wait until the Popup "NEFARAM has finished playing" appears.
+After creating your character (NEEDS to be a woman), wait until there's no more messages appearing on the top left (can take a couple minutes). Then Go to MCM>MCM Recorder>Click on NEFARAM and follow the Instructions>Click Run Recording. You will get messages on the top left again and even some popups appearing. This part can take several minutes, And even if nothing seems to be happening, something is happening. Wait until the Popup "NEFARAM has finished playing" appears.
 
 ### Some functions could not be recorded to MCM Recorder, so you have to do it manually :
 MCM>Wetfuction Redux>Target>Select target (your character name)>Then a bit under Start Effect
@@ -105,10 +105,14 @@ The Notification Log MCM is very useful to read what you might've missed ingame.
 ### DONE ! You can save and never have to do this again ! Unless you update the list of course ;)
 
 ## Known Bugs
-The list is stable and you should not have too many CTDs however as I couldnt test thoroughly all the quests i put in there, so there might be some bugs there (especially the loverlab quests, full of ideas but the execution is variable). If you report those to me I can help and incorporate the bugfixes into next releases.
+The list is stable and you should not have too many CTDs however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable). If you report those to me I can help and incorporate the bugfixes into next releases.
+
+Fighting with the arms bounds has funky animations because Devious Devices was made for FNIS and this modlist uses Nemesis.
 
 Some clothes which are supposed to be translucent sometimes have weird reflections or opacity due to ENB light at night or in interiors.
-Schlongs of Skyrim can interfere with some underwear (phantom dick bug)
+
+Schlongs of Skyrim can interfere with some underwear (phantom dick bug).
+
 When you want to dismiss a follower sometimes they are not dismissed, thats because they are still a Devious Follower. I need to manually patch all dialogues... Ill get around to it someday.
 
 ## Credits

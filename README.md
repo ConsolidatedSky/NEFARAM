@@ -22,7 +22,7 @@ The world is deleveled, meaning enemies are as strong as they should be, indepen
 
 Each type of enemy and armor type has weaknesses and strenghs, meaning you cannot deal only one type of damage : dont expect to clear a nordic ruin full of undeads with only a bow ! Did I mention you can only regenerate health with potions or spells?
 
-That brings us to the core of NEFARAM-combat: You need to delegate some parts of it to followers. You need a Tank to handle the melee enemies, a mage to ice those Dwemer centurions, perhaps a healer would be a good idea... You get the idea. Over time, you will be able to recruit more followers as your skill increases. But remember, this is a harsh world and almost nobody is your friend here...
+That brings us to the core of NEFARAM-combat: You need to delegate some parts of it to followers. You need a Tank to handle the melee enemies, a mage to ice those Dwemer centurions, perhaps a healer would be a good idea... You get the idea. But remember, this is a harsh world and almost nobody is your friend here...
 
 # Main Mods you should know about
 

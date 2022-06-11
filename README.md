@@ -1,5 +1,6 @@
 # NEFARAM (Beta)
-[!alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM%20LOGO%20BETA.png)
+![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/hudinfo.jpg)
+
 License CC BY-NC-SA 4.0
 
 # Preamble

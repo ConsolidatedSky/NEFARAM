@@ -171,7 +171,7 @@ Press G for the Survival Wheel, with tons of useful actions to do.
 
 Children are disabled by default, if you want to reenable them like for the aretino quest go to MCM > Sex Lab - Sexual Fame > Base Settings > Uncheck disable children.
 
-Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay and balance changes, but do so at your own risk, for example if you reenable decapitations in violens you have a 50% chance to also decapitate your PC when you decapitate someone (CTD)
+Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay and balance changes, but do so at your own risk, for example if you reenable decapitations in violens you have a 50% chance to also decapitate your game when you decapitate someone (CTD)
 
 Save often but not too much : avoid saving during combat or just before you load through a door. F5 now does a full save.
 

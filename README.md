@@ -91,7 +91,7 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 
 [OSL Aroused](https://www.nexusmods.com/skyrimspecialedition/mods/65454) : your character can get horny. Lots of stuff tied to this so as an advice its best to try to keep it down if you dont want to have unwanted consequences...
 
-[Devious Devices](https://www.loverslab.com/files/file/15078-devious-devices-le-50/) : more of a framework for other mods but introduces bondage gear in Skyrim. I recommend you try to understand a bit how it works or it can become more frustrating than it is supposed to be. CUSTOM CHANGES : You buy and sell the devices to merchants (see bug list at the bottom tho)
+[Devious Devices](https://www.loverslab.com/files/file/15078-devious-devices-le-50/) : more of a framework for other mods but introduces bondage gear in Skyrim. I recommend you try to understand a bit how it works or it can become more frustrating than it is supposed to be. CUSTOM CHANGES : You can buy and sell the devices to merchants (see bug list at the bottom tho)
 
 [Devious Enchanted Chests](https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/) : If you open chests they have a chance to be trapped and equip bondage gear on your character.
 

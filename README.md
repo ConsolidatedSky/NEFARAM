@@ -14,7 +14,7 @@ Based on [Animonculory Visual Overhaul Version 1.3](https://github.com/The-Animo
 Latest Version of Skyrim Anniversary Edition WITH the paid Creation Club content.
 
 
-GPU : RTX2070 should get you 60 FPS almost everywhere. You can tweak performance by tweaking the ini files with BethIni and the ENB.
+GPU : RTX2070 should get you 60 FPS almost everywhere. I have a 2060 and it doesnt go under 40 in heavy NPC areas such as the Whiterun market. You can tweak performance by tweaking the ini files with BethIni and the ENB.
 
 Increase your pagefile (recommended : 40 GB).
 
@@ -172,6 +172,8 @@ Press G for the Survival Wheel, with tons of useful actions to do.
 Children are disabled by default, if you want to reenable them like for the aretino quest go to MCM > Sex Lab - Sexual Fame > Base Settings > Uncheck disable children.
 
 Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay and balance changes, but do so at your own risk, for example if you reenable decapitations in violens you have a 50% chance to also decapitate your PC when you decapitate someone (CTD)
+
+Save often but not too much : avoid saving during combat or just before you load through a door. F5 now does a full save.
 
 ### DONE ! You can save and never have to do this again ! Unless you update the list of course ;) . You should be fine even changing your race if you want to. 
 

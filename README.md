@@ -19,6 +19,8 @@ Size : 150 GB ( and another 150 for the downloads). Put the modlist on an SSD pl
 Wide Screens not tested.
 
 Made for keyboard playing.
+
+*BETA Comment : Only tested in 1080p. tell me how the HUD is in higher resolutions.*
 # Installation
 With Wabbajack
 # What make NEFARAM unique :
@@ -39,35 +41,44 @@ Full modlist :
 Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md) (very gorgeous yet performance friendly) heavily modified.
 
 ## Combat
-lots of tweaks with [Simonrim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files), [Stamina Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/50502), [Smart NPC potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) (with [animations !](https://www.nexusmods.com/skyrimspecialedition/mods/45182)), [True Unleveled Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/56881/), [NPCStatRescaler](https://github.com/theSkyseS/NPCStatRescaler) and more.
-
-## Economy
-A lot of mods to make the game's economy feel alive with prices fluctuations depending on a lot of factors. As you cannot invest in all skills you have opportunities for gold sinks to alleviates some of your weaknesses (No smithing? you can [order a new armor from a blacksmith](https://www.nexusmods.com/skyrimspecialedition/mods/51254) for example) as well as very creative loverslab money sinks...
-
-*(BETA comment: need feedback on the economy of Honed Metal, is it too cheap or expensive to get good items?)*
-
-## Survival
-[Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414), [experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+lots of tweaks with [Simonrim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files), [Stamina Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/50502), [Smart NPC potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) (with [animations !](https://www.nexusmods.com/skyrimspecialedition/mods/45182)), [True Unleveled Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/56881/), [NPCStatRescaler](https://github.com/theSkyseS/NPCStatRescaler). For the combat feeling, expect it to be slower but more impacting. 
 
 ## Quests
-Many quests revamped : [Jayserpa](https://www.nexusmods.com/skyrimspecialedition/users/5201727?tab=user+files)'s quests, and tweaks to pretty much all of Skyrim's factions but the big ones are [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673), [Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748/), [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061)
+Many quests revamped : [Jayserpa](https://www.nexusmods.com/skyrimspecialedition/users/5201727?tab=user+files)'s quests, and tweaks to pretty much all of Skyrim's factions but the big ones are [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673), [Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748/), [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), and im planning on adding more but slowly to make sure they integrate well.
 
 ## Followers
 [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194/), [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [Serana Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161), [Mythos](https://www.nexusmods.com/skyrimspecialedition/mods/51576?tab=posts), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Morgaine](https://www.nexusmods.com/skyrimspecialedition/mods/41027),[Misty Skye ( (｡)(｡) )](https://www.nexusmods.com/skyrimspecialedition/mods/16374?tab=description) and some others...
 
 ## Armors & Outfits
-Vanilla outfits remodeled, and new ones that i tried to keep "lore-friendly" and "immersive" as much as possible... And they are pretty much all custom integrated into the game with crafting costs, conditions. The skimpiness is mostly contained in a tasteful way. All armors and outfits added are balanced and integrated into the world. That includes the Creation Club content. Im open to suggestions though I need to integrate each item manually so I go slowly on that.
+Vanilla outfits remodeled, and new ones that i tried to keep "lore-friendly" and "immersive" as much as possible... And they are pretty much all custom integrated into the game with crafting costs, conditions. The skimpiness is mostly contained in a tasteful way. They are also balanced and integrated into the world, like in chests, vendors, or worn by people. That includes the Creation Club content. Im open to suggestions though I need to integrate each item manually so I go slowly on that.
+
+## Economy
+A lot of mods to make the game's economy feel alive with [prices fluctuations](https://www.nexusmods.com/skyrimspecialedition/mods/26325) depending on a lot of [factors](https://www.nexusmods.com/skyrimspecialedition/mods/23081). As you cannot invest in all skills you have opportunities for gold sinks to alleviates some of your weaknesses (No smithing? you can [order a new armor from a blacksmith](https://www.nexusmods.com/skyrimspecialedition/mods/51254) for example) as well as very creative loverslab money sinks...
+
+*(BETA comment: need feedback on the economy of Honed Metal, is it too cheap or expensive to get good items?)*
+
+## Other mods to be aware of :
+[Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414), [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+
+Survival is an important aspect of this modlist, but your whole gameplay will not revolve around it if you plan a bit in advance.
+
+## User Interface
+[Dear Diary Dark mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837),[TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) and others (see images at the bottom for example)
 
 ## And More
-[Cities](https://www.nexusmods.com/skyrimspecialedition/mods/56731) and landcapes overhauls, roleplay mods and animations...
+[Lots](https://www.nexusmods.com/skyrimspecialedition/mods/37982) of [cities](https://www.nexusmods.com/skyrimspecialedition/mods/56731) and [villages](https://www.nexusmods.com/skyrimspecialedition/mods/35977) and landcapes overhauls, new [interiors](https://www.nexusmods.com/skyrimspecialedition/mods/6130) roleplay mods and animations... There is a lot of things that will be new and yet consistent with the game, to make hopefully one of the most fresh Skyrim experiences.
 
 # Important NSFW mods you should know about
 
 ## Disclamer
 
-NO creature support
+NO creature support.
+
+There is no mods for posing/screen archery. This is a modlist made for gameplay first and foremost but you can add your own pose mods if ya want.
 
 Non-consent(Rape) is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. Usually if you notice a typo in dialogue that will lead to one of the loverslab mod with a sex scene... The main way is if you're defeated in combat or if you choose some specific start options, so if you wanna avoid it just dont die (and be rich). There is however slavery both of you and others but you will see it coming (more or less). There is however lots of coercion going on, which is considered rape IRL but different mechanics ingame.
+
+The situations depicted in the modlist do not represent any resemblance to reality and are obviously a fantasy and should stay that way.
 
 ## The mods
 based on Sexlab Framework, with lots of new animations.
@@ -112,17 +123,33 @@ I tried to keep all the mods above as integrated as possible into the game and n
 
 ## Final Steps - Ingame
 ### Initial Actions
-After creating your character (NEEDS to be a woman), wait until there's no more messages appearing on the top left (can take a couple minutes). Then Go to MCM>MCM Recorder>Click on NEFARAM and follow the Instructions>Click Run Recording. You will get messages on the top left again and even some popups appearing. This part can take several minutes, And even if nothing seems to be happening, something is happening. Wait until the Popup "NEFARAM has finished playing" appears.
+After creating your character (NEEDS to be a woman), do the following :
 
-### Some functions could not be recorded to MCM Recorder, so you have to do it manually :
-MCM>Wetfuction Redux>Target>Select target (your character name)>Then a bit under Start Effect
+1) Press Backspace > File (top left) > import/export > in the drop-down menu select NEFARAM > import > ok > close the windows
 
-### Final notes :
-You can modify your body type with OBody (Press F10). You can add your own custom CBBE 3BA body preset into ModOrganizer and it'll work out of the box, no need to rerun Bodyslide.
+2) Open Inventory > click on [Additemmenu Pack] > click both books > read both books > you can drop the [Additemenu Pack]. *BETA Comment : and you can also drop the 'Spank Slave' item, it is useless, but that will keep coming back whenever you load a save. I need to edit a script to remove that...*
+
+WAIT UNTIL THERE'S NO MORE MESSAGES APPEARING ON THE TOP LEFT
+
+3) Go to MCM > MCM Recorder > Click on NEFARAM and follow the Instructions > Click Run Recording. You will get messages on the top left again and even some popups appearing. This part can take several minutes, And even if nothing seems to be happening, something is happening. Wait until the Popup "NEFARAM has finished playing" appears.
+
+4) Go to MCM > Wetfuction Redux > Target > Select target (your character name)>Then a bit under Start Effect
+
+
+### Final notes and tips :
+*BETA COMMENT : Save often :')*
+
+You can modify your body type with [OBody](https://www.nexusmods.com/skyrimspecialedition/mods/51084) (Press F10). Or others people's bodies male or female if you aim at them with your crosshair.
 
 All debug spells are located in your Powers Keyring Power
 
-The Notification Log MCM is very useful to read what you might've missed ingame.
+The [Notification Log](https://www.nexusmods.com/skyrimspecialedition/mods/27707) MCM is very useful to read what you might've missed ingame.
+
+You can hide quests you dont want to do with [Hide your quests](https://www.nexusmods.com/skyrimspecialedition/mods/50125).
+
+Press G for the Survival Wheel, with tons of useful actions to do.
+
+Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay and balance changes, but do so at your own risk, for example if you reenable decapitations in violens you have a 50% chance to also decapitate your PC when you decapitate someone (CTD)
 
 ### DONE ! You can save and never have to do this again ! Unless you update the list of course ;)
 

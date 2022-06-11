@@ -157,6 +157,7 @@ Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay 
 Keyboard layout : 
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_0_1_Keyboard.png)
 Tawoba books :
+![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/TAWBOBAbook.jpg)
 
 ## Known Bugs
 The list is stable and you should not have too many CTDs however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable). If you report those to me I can help and incorporate the bugfixes into next releases.

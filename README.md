@@ -139,18 +139,17 @@ After creating your character (NEEDS to be a woman), do the following :
 1) Press Backspace > File (top left) > import/export > in the drop-down menu select NEFARAM > import > ok > close the windows
 
 2) Open Inventory > click on [Additemmenu Pack] > click both books > read both books > you can drop the [Additemenu Pack].
-*BETA Comment : and you can also drop the 'DropMe' item, it is useless, but that will keep coming back whenever you load a save. I need to edit a script to remove that...*
 
 WAIT UNTIL THERE'S NO MORE MESSAGES APPEARING ON THE TOP LEFT
 
-3) Go to MCM > MCM Recorder > Click on NEFARAM and follow the Instructions > Click Run Recording. You will get messages on the top left again and even some popups appearing. This part can take several minutes, And even if nothing seems to be happening, something is happening. Wait until the Popup "NEFARAM has finished playing" appears.
+3) Go to MCM > MCM Recorder > Click on NEFARAM and follow the Instructions > Click Run Recording. You will get messages on the top left again and even some popups appearing. This part can take several minutes, And even if nothing seems to be happening, something is happening. Wait until the Popup "NEFARAM has finished playing" appears. In the meantime you can press F10 and choose your body.
 
 4) Go to MCM > Wetfuction Redux > Targets > Select target Player:(your character name) > then a bit under > Start Effect > Exit menu
 
-5) Go to MCM > SLWidgets > General > Exposure Icon Enabled > Disable > Exit menu
+5) Go to MCM > SLWidgets > General > Exposure Icon Enabled > Uncheck > Exit menu
 
 6) Go to MCM > Sex lab - Sexual Fame > Base Settings > Click on [Debug] reset all papyrus storage, Comment Probability 50%, config key Inser
-                                      > Customization NPC > Allow re-equip Disable
+                                      > Customization NPC > Allow re-equip Uncheck
 
 7) Go to MCM > Sexlab > Sex Diary > Sexual Stats > You can set your sexual preference.
 
@@ -160,9 +159,9 @@ WAIT UNTIL THERE'S NO MORE MESSAGES APPEARING ON THE TOP LEFT
 ### Final notes and tips :
 *BETA COMMENT : Save often :')*
 
-You can modify your body type with [OBody](https://www.nexusmods.com/skyrimspecialedition/mods/51084) (Press F10). Or others people's bodies male or female if you aim at them with your crosshair.
+You can modify your body type with [OBody](https://www.nexusmods.com/skyrimspecialedition/mods/51084) (Press F10). Or others people's bodies man or woman if you aim at them with your crosshair.
 
-All debug spells are located in your Powers Keyring Power
+All debug spells are located in your [Powers Keyring](https://www.nexusmods.com/skyrimspecialedition/mods/42949) Power
 
 The [Notification Log](https://www.nexusmods.com/skyrimspecialedition/mods/27707) MCM is very useful to read what you might've missed ingame.
 
@@ -170,9 +169,11 @@ You can hide quests you dont want to do with [Hide your quests](https://www.nexu
 
 Press G for the Survival Wheel, with tons of useful actions to do.
 
+Children are disabled by default, if you want to reenable them like for the aretino quest go to MCM > Sex Lab - Sexual Fame > Base Settings > Uncheck disable children.
+
 Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay and balance changes, but do so at your own risk, for example if you reenable decapitations in violens you have a 50% chance to also decapitate your PC when you decapitate someone (CTD)
 
-### DONE ! You can save and never have to do this again ! Unless you update the list of course ;)
+### DONE ! You can save and never have to do this again ! Unless you update the list of course ;) . You should be fine even changing your race if you want to. 
 
 ## Resources
 Keyboard layout : 
@@ -185,11 +186,9 @@ Tawoba books (you only need the perks corresponding to the material now, except 
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/TAWBOBAbook.jpg)
 
 ## Known Bugs
-The list is stable and you should not have too many CTDs however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable). If you report those to me I can help and incorporate the bugfixes into next releases.
+TYou should not have too many CTDs execpt in dense NPC areas however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable).
 
-Fighting with the arms bounds has funky animations because Devious Devices was made for FNIS and this modlist uses Nemesis.
-
-Schlongs of Skyrim can interfere with some underwear if you put them on males (phantom dick bug).
+Fighting with the arms bound has funky animations because Devious Devices was made for FNIS and this modlist uses Nemesis.
 
 When you want to dismiss a follower sometimes they are not dismissed, thats because they are still a Devious Follower. Mods using custom followers are the culprit of this, you can use the Devious Followers MCM to force remove your follower once you paid them in full.
 

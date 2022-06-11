@@ -72,7 +72,7 @@ Survival is an important aspect of this modlist, but your whole gameplay will no
 [Dear Diary Dark mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837),[TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) and others (see images at the bottom for example)
 
 ## And More
-[Lots](https://www.nexusmods.com/skyrimspecialedition/mods/37982) of [cities](https://www.nexusmods.com/skyrimspecialedition/mods/56731) and [villages](https://www.nexusmods.com/skyrimspecialedition/mods/35977) and landcapes overhauls, new [interiors](https://www.nexusmods.com/skyrimspecialedition/mods/6130) roleplay mods and animations... There is a lot of things that will be new and yet consistent with the game, to make hopefully one of the most fresh Skyrim experiences.
+[Lots](https://www.nexusmods.com/skyrimspecialedition/mods/37982) of [cities](https://www.nexusmods.com/skyrimspecialedition/mods/56731) and [villages](https://www.nexusmods.com/skyrimspecialedition/mods/35977) and landcapes overhauls, new [interiors](https://www.nexusmods.com/skyrimspecialedition/mods/6130) roleplay mods and animations... There is a lot of things that will be new and yet consistent with the game, to make hopefully one of the most fresh Skyrim experiences. Did you say you want to [become a bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357) ?
 
 # Important NSFW mods you should know about
 

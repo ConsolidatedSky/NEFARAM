@@ -105,19 +105,19 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 
 *(BETA comment: need feedback for the balance of that also)*
 
-[Radiant Prostitution](https://www.loverslab.com/files/file/17325-radiant-prostitution-gigolo-se/) : Talk to innkeepers, they have several new jobs for you... included patch to make follower be able to give jobs too. CUSTOM CHANGES: 'Working clothes': Ninirim Lingerie, Some of Ghaan craftable
-
-[Public Whore](https://www.loverslab.com/files/file/17026-public-whore/) : same as above, but different. 
-
 [Sexlab Survival](https://www.loverslab.com/files/file/5914-sexlab-survival/)(modpage is outdated, version in the modlist 0.685) : LOTS of stuff here, also lots of stuff disabled by default in the modlist. But basically : Do something wrong in cities and suffer the consequences. and there are a lot more consequences than just a fine or jail... Also includes bikini system : you will progressively get buffs if you wear some but you will suffer debuffs if you wear regular armors again. You can enable some options back but it can get very intrusive (and also buggy). CUSTOM CHANGE : Armors considered Bikini : TAWOBA,TEWOBA, some others
-
-Quests : [Amorous adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/), [Book of Mara](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/), [Sister of Dibella](https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/page/93/#comment-3462553), and some vanilla ones tweaked to include the possibility of sex. The big one is [Trouble of Heroine](https://www.loverslab.com/files/file/10454-troubles-of-heroine/), it adds NPCs with more or less big quests (like 3DNPCs) but it is optional *(BETA comment: no its not)* because it is perhaps the most extreme one in this modlist (humiliation, rape, the whole shebang) and also lots of typos. By default I disabled the ones I tested that I found borderline or too annoying. However among all of this there is some good stuff in there. Aslo [Angrim's Apprentice](https://www.loverslab.com/files/file/384-angrims-apprentice-feb-10-2016/). CUSTOM CHANGES: patches for sunhelm, Milkmod, also some balance.
 
 [Sexual Fame Comments](https://www.loverslab.com/files/file/14089-slsf-fame-comments-se/) : NPCs will gossip and react on what you do around them.
 
-[Simple Slavery](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/) : You have a chance to be enslaved if you're defeated in combat, and also some other (rare) ways.
+[Radiant Prostitution](https://www.loverslab.com/files/file/17325-radiant-prostitution-gigolo-se/) : Talk to innkeepers, they have several new jobs for you... included patch to make follower be able to give jobs too. CUSTOM CHANGES: 'Working clothes': Ninirim Lingerie, Some of Ghaan craftable
 
-[Paradise Halls](https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/) & [Diary of Mine](https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/) : YOU can enslave people, train them and make them fighters or sell them for money. at a slave auction west of Fellglow Keep. CUSTOM CHANGES : removed some dialogues from Diary of Mine.
+(PEGI 18) [Public Whore](https://www.loverslab.com/files/file/17026-public-whore/) : same as above, but more hardcore.
+
+(PEGI 18) [Simple Slavery](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/) : You have a chance to be enslaved if you're defeated in combat, and also some other (rare) ways.
+
+(PEGI 18) [Paradise Halls](https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/) & [Diary of Mine](https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/) : YOU can enslave people, train them and make them fighters or sell them for money. at a slave auction west of Fellglow Keep. CUSTOM CHANGES : removed some dialogues from Diary of Mine.
+
+And quests : [Amorous adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/), [Book of Mara](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/), [Sister of Dibella](https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/page/93/#comment-3462553), and some vanilla ones tweaked to include the possibility of sex. The big one is (PEGI 18) [Trouble of Heroine](https://www.loverslab.com/files/file/10454-troubles-of-heroine/), it adds NPCs with more or less big quests (like 3DNPCs) but it is optional *(BETA comment: no its not)* because it is perhaps the most extreme one in this modlist (humiliation, rape, the whole shebang) and also lots of typos. By default I disabled the ones I tested that I found borderline or too annoying. However among all of this there is some good stuff in there. Aslo [Angrim's Apprentice](https://www.loverslab.com/files/file/384-angrims-apprentice-feb-10-2016/). CUSTOM CHANGES: patches for sunhelm, Milkmod, also some balance.
 
 Aaand lots of ambiant stuff surrounding the dark and harsh society that is Skyrim during a civil war.
 

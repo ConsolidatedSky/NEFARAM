@@ -64,7 +64,7 @@ A lot of mods to make the game's economy feel alive with [prices fluctuations](h
 ## Other mods to be aware of :
 [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414), [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
 
-Survival is an important aspect of this modlist, but your whole gameplay will not revolve around it if you plan a bit in advance.
+Survival is an important aspect of this modlist, but your whole gameplay will not revolve around it if you plan a bit in advance. Do note that a lot of the placed food in the world is removed, you will no longer find centuries old bread in your nordic crypts.
 
 ## User Interface
 [Dear Diary Dark mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837),[TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) and others (see images at the bottom for example)

@@ -181,7 +181,7 @@ Save often but not too much : avoid saving during combat or just before you load
 Keyboard layout : 
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_0_1_Keyboard.png)
 
-HUD layout information :
+HUD layout information (Also middle mouse to change camera shoulder, Mouse4 for blocking even while dual wielding or unarmed)
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/hudinfo.jpg)
 
 Tawoba books (you only need the perks corresponding to the material now, except for thalmor variant of the elven bikini) :

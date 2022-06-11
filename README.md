@@ -124,6 +124,13 @@ Aaand lots of ambiant stuff surrounding the dark and harsh society that is Skyri
 ### About immersion
 I tried to keep all the mods above as integrated as possible into the game and not feel too out of place, but some of them would require extensive patching to remove the way out there stuff, so some things like dialogue or some Devious Devices outfits can feel out of place but the trade-off is usually worth it.
 
+## Game Pre-launch
+### Choose your version
+There are 2 version : [PEGI 16](https://www.youtube.com/watch?v=JkoUQAvYkVI) and [PEGI 18](https://www.youtube.com/watch?v=JaQYJHUJlYE).
+
+Choose the one you want in MO2 profiles. The differences are that these mods and their corresponding patch are disabled in the PEGI 16 version : Trouble of Heroine, Hydra slavegirls, Damsels in distress, Public Whore, Simple Slavery, Paradise Halls, Diary Of Mine
+
+*BETA Comment : No PEGI 16 yet*
 
 ## Final Steps - Ingame
 ### Initial Actions
@@ -193,7 +200,7 @@ The dialogue camera is sometimes bugged when you talk to the statue of mara in t
 When you first start your game animations will take a few seconds to register (T-Pose on NPCs). That is normal.
 
 ## Credits
-The Animonculary Team for AVO 1.3 which this modlist is built upon, perfect balance between graphics and performance
+The Animonculary Team for AVO 1.3 which this modlist is built upon
 
 All the mod authors whose mods are included here that put a lot of work into them
 

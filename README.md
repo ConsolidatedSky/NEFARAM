@@ -165,6 +165,10 @@ Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay 
 ## Resources
 Keyboard layout : 
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_0_1_Keyboard.png)
+
+HUD layout information :
+![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/hudinfo.jpg)
+
 Tawoba books (you only need the perks corresponding to the material now, except for thalmor variant of the elven bikini) :
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/TAWBOBAbook.jpg)
 

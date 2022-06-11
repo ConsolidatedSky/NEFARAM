@@ -47,6 +47,8 @@ Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/
 ## Combat
 lots of tweaks with [Simonrim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files), [Stamina Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/50502), [Smart NPC potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) (with [animations !](https://www.nexusmods.com/skyrimspecialedition/mods/45182)), [True Unleveled Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/56881/), [NPCStatRescaler](https://github.com/theSkyseS/NPCStatRescaler). For the combat feeling, expect it to be slower but more impacting than vanilla.
 
+And the very important one : [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807)
+
 ## Quests
 Many quests revamped : [Jayserpa](https://www.nexusmods.com/skyrimspecialedition/users/5201727?tab=user+files)'s quests, and tweaks to pretty much all of Skyrim's factions but the big ones are [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673), [Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748/), [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), and im planning on adding more but slowly to make sure they integrate well.
 

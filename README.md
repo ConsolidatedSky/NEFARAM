@@ -155,7 +155,7 @@ Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay 
 
 ## Resources
 Keyboard layout : 
-
+![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_0_1_Keyboard.png)
 Tawoba books :
 
 ## Known Bugs

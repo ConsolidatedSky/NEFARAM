@@ -37,7 +37,7 @@ That brings us to the core of NEFARAM-combat: You need to delegate some parts of
 
 # Main Mods you should know about
 
-Full modlist :
+Full modlist : [Click Here](https://loadorderlibrary.com/lists/nefaram)
 
 ## Visuals
 Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md) (very gorgeous yet performance friendly) heavily modified.

@@ -178,10 +178,10 @@ Save often but not too much : avoid saving during combat or just before you load
 ### DONE ! You can save and never have to do this again ! Unless you update the list of course ;) . You should be fine even changing your race if you want to. 
 
 ## Resources
-Keyboard layout : 
+Keyboard layout (Also middle mouse to change camera shoulder, Mouse4 for blocking even while dual wielding or unarmed): 
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_0_1_Keyboard.png)
 
-HUD layout information (Also middle mouse to change camera shoulder, Mouse4 for blocking even while dual wielding or unarmed)
+HUD layout information :
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/hudinfo.jpg)
 
 Tawoba books : you dont need the books to craft the armors anymore, you only need the perks corresponding to the material, except for the thalmor variant which the book is at the same place as the orginal elven one.

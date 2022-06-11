@@ -133,7 +133,16 @@ WAIT UNTIL THERE'S NO MORE MESSAGES APPEARING ON THE TOP LEFT
 
 3) Go to MCM > MCM Recorder > Click on NEFARAM and follow the Instructions > Click Run Recording. You will get messages on the top left again and even some popups appearing. This part can take several minutes, And even if nothing seems to be happening, something is happening. Wait until the Popup "NEFARAM has finished playing" appears.
 
-4) Go to MCM > Wetfuction Redux > Target > Select target (your character name)>Then a bit under Start Effect
+4) Go to MCM > Wetfuction Redux > Targets > Select target Player:(your character name) > then a bit under > Start Effect > Exit menu
+
+5) Go to MCM > SLWidgets > General > Exposure Icon Enabled > Disable > Exit menu
+
+6) Go to MCM > Sex lab - Sexual Fame > Base Settings > Click on [Debug] reset all papyrus storage, Comment Probability 50%, config key Inser
+                                      > Customization NPC > Allow re-equip Disable
+
+7) Go to MCM > Sexlab > Sex Diary > Sexual Stats > You can set your sexuality.
+
+*8) BETA Iwantwidget slight arousal alpha 0*
 
 
 ### Final notes and tips :

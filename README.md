@@ -2,9 +2,10 @@
 License CC BY-NC-SA 4.0
 
 # Preamble
-NEFARAM is a unique NSFW modlist with lots of new content yet balanced around a deleveled world. Experience a hardcore yet rewarding new Skyrim !
+NEFARAM is a unique NSFW modlist with lots of new content balanced around a deleveled world. Experience a hardcore in every sense of the term yet rewarding new Skyrim !
 
-Based on AVO 1.3. Inspired by the now defunct modlist Dungeons & Deviousness, but slightly less devious (or at least in a different way ;) )
+Inspired by the now defunct modlist Dungeons & Deviousness, but slightly less devious (or at least in a different way ;) )
+Based on [Animonculory Visual Overhaul Version 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul#readme). 
 
 # Requirements
 Latest Version of Skyrim Anniversary Edition WITH the paid Creation Club content.

@@ -30,7 +30,7 @@ With Wabbajack
 # What make NEFARAM unique :
 Skyrim is a harsh medieval place. You will need to fight, help, convince, escape, coerce both friends and foes to survive. Inspired by Requiem, expect an unforgiving world at your reach. But full of opportunities if you manage to seize them...
 
-The world is deleveled, meaning enemies are as strong as they should be, independent of your own level. basically, every tool you as a player have, expect your enemies to potentially have them : skills, spells, potions, perks, etc. If you have a light armor on and you dont dodge/block a greatsword, you will probably die no matter what.
+The world is deleveled, meaning enemies are as strong as they should be, independent of your own level. basically, every tool you as a player have, expect your enemies to potentially have them : skills, spells, potions, perks, etc. If you have a light armor on and you dont dodge/block a greatsword, you will not have a good time no matter what's your level
 
 Each type of enemy and armor type has weaknesses and strenghs, meaning you cannot deal only one type of damage : dont expect to clear a nordic ruin full of undeads with only a bow ! Did I mention you can only regenerate health with potions or spells?
 
@@ -101,7 +101,7 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 
 [Yamete Kudasai](https://www.patreon.com/posts/yamete-kudasai-0-67182401) : The defeat mod. still in beta rn but seems solid. Theres other alternatives included in the modlist as optional but remember, once you start with a defeat mod, you need to keep it the whole game.
 
-[Corruption](https://www.loverslab.com/files/file/15787-corruption/) : When you are hit hard by enemies, or when you get raped, your character can get traumatized. To lower that trauma you need to do addictive actions such as drink alcohol, skooma, various types of sex to lower that trauma. Thus your haracter can get addicted to those actions in return, and even sometimes giving buffs ! However if your character is too far gone they will suffer debuffs when not doing those actions, sometimes very harsh ones. You can lower your corruption by praying.
+[Corruption](https://www.loverslab.com/files/file/15787-corruption/) : When you are hit hard by enemies, or when you get raped, your character can get traumatized. To lower that trauma you need to do addictive actions such as drink alcohol, skooma, various types of sex to lower that trauma. Thus your character can get addicted to those actions in return, and even sometimes giving buffs ! However if your character is too far gone they will suffer debuffs when not doing those actions, sometimes very harsh ones. You can lower your corruption by praying.
 
 *(BETA comment: need feedback for the balance of that also)*
 
@@ -187,7 +187,7 @@ HUD layout information :
 Tawoba books : you dont need the books to craft the armors anymore, you only need the perks corresponding to the material, except for the thalmor variant which the book is at the same place as the orginal elven one.
 
 ## Known Bugs
-TYou should not have too many CTDs execpt in dense NPC areas however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable).
+You should not have too many CTDs execpt in dense NPC areas however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable).
 
 Fighting with the arms bound has funky animations because Devious Devices was made for FNIS and this modlist uses Nemesis.
 

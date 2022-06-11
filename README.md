@@ -127,7 +127,8 @@ After creating your character (NEEDS to be a woman), do the following :
 
 1) Press Backspace > File (top left) > import/export > in the drop-down menu select NEFARAM > import > ok > close the windows
 
-2) Open Inventory > click on [Additemmenu Pack] > click both books > read both books > you can drop the [Additemenu Pack]. *BETA Comment : and you can also drop the 'Spank Slave' item, it is useless, but that will keep coming back whenever you load a save. I need to edit a script to remove that...*
+2) Open Inventory > click on [Additemmenu Pack] > click both books > read both books > you can drop the [Additemenu Pack].
+*BETA Comment : and you can also drop the 'DropMe' item, it is useless, but that will keep coming back whenever you load a save. I need to edit a script to remove that...*
 
 WAIT UNTIL THERE'S NO MORE MESSAGES APPEARING ON THE TOP LEFT
 

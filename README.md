@@ -80,7 +80,7 @@ NO creature support.
 
 There is no mods for posing/screen archery. This is a modlist made for gameplay first and foremost but you can add your own pose mods if ya want.
 
-Non-consent(Rape) is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. Usually if you notice a typo in dialogue that will lead to one of the loverslab mod with a sex scene... The main way is if you're defeated in combat or if you choose some specific start options, so if you wanna avoid it just dont die (and be rich). There is however slavery both of you and others but you will see it coming (more or less). There is however lots of coercion going on, which is considered rape IRL but different mechanics ingame.
+Non-consent(Rape) (In PEGI 18 version) is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. Usually if you notice a typo in dialogue that will lead to one of the loverslab mod with a sex scene... The main way is if you're defeated in combat or if you choose some specific start options, so if you wanna avoid it just dont die (and be rich). There is however slavery both of you and others but you will see it coming (more or less). There is however lots of coercion going on, which is considered rape IRL but different mechanics ingame.
 
 The situations depicted in the modlist do not represent any resemblance to reality and are obviously a fantasy and should stay that way.
 
@@ -152,7 +152,7 @@ WAIT UNTIL THERE'S NO MORE MESSAGES APPEARING ON THE TOP LEFT
 6) Go to MCM > Sex lab - Sexual Fame > Base Settings > Click on [Debug] reset all papyrus storage, Comment Probability 50%, config key Inser
                                       > Customization NPC > Allow re-equip Disable
 
-7) Go to MCM > Sexlab > Sex Diary > Sexual Stats > You can set your sexuality.
+7) Go to MCM > Sexlab > Sex Diary > Sexual Stats > You can set your sexual preference.
 
 *8) BETA Iwantwidget slight arousal alpha 0*
 

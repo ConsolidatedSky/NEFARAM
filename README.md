@@ -30,7 +30,7 @@ With Wabbajack
 # What make NEFARAM unique :
 Skyrim is a harsh medieval place. You will need to fight, help, convince, escape, coerce both friends and foes to survive. Inspired by Requiem, expect an unforgiving world at your reach. But full of opportunities if you manage to seize them...
 
-The world is deleveled, meaning enemies are as strong as they should be, independent of your own level. basically, every tool you as a player have, expect your enemies to potentially have them : skills, spells, potions, perks, etc. If you have a light armor on and you dont dodge/block a greatsword, you will not have a good time no matter what's your level
+The world is deleveled, meaning enemies are as strong as they should be, independent of your own level. basically, every tool you as a player have, expect your enemies to potentially have them : skills, spells, potions, perks, etc. If you have a light armor on and you dont dodge/block a greatsword, you will not have a good time no matter what's your level !
 
 Each type of enemy and armor type has weaknesses and strenghs, meaning you cannot deal only one type of damage : dont expect to clear a nordic ruin full of undeads with only a bow ! Did I mention you can only regenerate health with potions or spells?
 

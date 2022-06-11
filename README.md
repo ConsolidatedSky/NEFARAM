@@ -184,8 +184,7 @@ Keyboard layout :
 HUD layout information (Also middle mouse to change camera shoulder, Mouse4 for blocking even while dual wielding or unarmed)
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/hudinfo.jpg)
 
-Tawoba books (you only need the perks corresponding to the material now, except for thalmor variant of the elven bikini) :
-![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/TAWBOBAbook.jpg)
+Tawoba books : you dont need the books to craft the armors anymore, you only need the perks corresponding to the material, except for the thalmor variant which the book is at the same place as the orginal elven one.
 
 ## Known Bugs
 TYou should not have too many CTDs execpt in dense NPC areas however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable).

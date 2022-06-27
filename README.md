@@ -121,7 +121,7 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 
 *(BETA comment: need feedback for the balance of that also)*
 
-(PEGI 18) [Simple Slavery](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/) : You have a chance to be enslaved if you're defeated in combat, and also some other (rare) ways.
+(PEGI 18) [Simple Slavery](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/) : Framework to get enslaved in other mods. Right now its quite difficult to become enslaved unless you do it manually.
 
 (PEGI 18) [Paradise Halls](https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/) & [Diary of Mine](https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/) : YOU can enslave people, train them and make them fighters or sell them for money. at a slave auction west of Fellglow Keep. CUSTOM CHANGES : removed some dialogues from Diary of Mine to declutter it a bit.
 

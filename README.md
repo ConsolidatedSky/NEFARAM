@@ -78,7 +78,7 @@ Survival is an important aspect of this modlist, but your whole gameplay will no
 ## And More
 [Lots](https://www.nexusmods.com/skyrimspecialedition/mods/37982) of [cities](https://www.nexusmods.com/skyrimspecialedition/mods/56731) and [villages](https://www.nexusmods.com/skyrimspecialedition/mods/35977) and landcapes overhauls, new [interiors](https://www.nexusmods.com/skyrimspecialedition/mods/6130) roleplay mods and animations... There is a lot of things that will be new and yet consistent with the game, to make hopefully one of the most fresh Skyrim experiences. Did you say you want to [become a bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357) ?
 
-# Important NSFW mods you should know about
+# Sex part
 
 ## Disclamer
 
@@ -86,7 +86,9 @@ NO creature support.
 
 There is no mods for posing/screen archery. This is a modlist made for gameplay first and foremost but you can add your own pose mods if ya want.
 
-Non-consent(Rape) (In PEGI 18 version) is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. Usually if you notice a typo in dialogue that will lead to one of the loverslab mod with a sex scene... The main way is if you're defeated in combat or if you choose some specific start options, so if you wanna avoid it just dont die (and be rich). There is however slavery both of you and others but you will see it coming (more or less). There is however lots of coercion going on, which is considered rape IRL but different mechanics ingame.
+There are 2 versions of the list : Default and [PEGI 18](https://www.youtube.com/watch?v=JaQYJHUJlYE). As the name suggests, the most hardcore stuff is only available in the PEGI 18 version. In the default version, sexual content is mostly limited to consensual stuff on demand. In the PEGI 18 version, the whole world is drastically changed. You will not get assaulted at every corner, but the sexual content becomes an integral part of the gameplay.
+
+Non-consent(Rape) (In PEGI 18 version) is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. Usually if you notice a typo in dialogue that will lead to one of the loverslab mod with a sex scene... There is however slavery both of you and others but you will see it coming (more or less).
 
 The situations depicted in the modlist do not represent any resemblance to reality and are obviously a fantasy and should stay that way.
 
@@ -127,16 +129,14 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 
 And quests : [Amorous adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/), [Book of Mara](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/), [Sisters of Dibella](https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/page/93/#comment-3462553), and some vanilla ones tweaked to include the [possibility](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) of sex. The big one is (PEGI 18) [Trouble of Heroine](https://www.loverslab.com/files/file/10454-troubles-of-heroine/), it adds NPCs with more or less big quests (like 3DNPCs) but it is optional because it is perhaps the most extreme one in this modlist (humiliation, rape, the whole shebang) and also lots of typos. By default I disabled the ones I tested that I found borderline or too annoying, but its a very large mod. However among all of this there is some good stuff in there. Aslo [Angrim's Apprentice](https://www.loverslab.com/files/file/384-angrims-apprentice-feb-10-2016/). CUSTOM CHANGES: patches for Sunhelm, Milkmod, also some balance.
 
-Aaand lots of ambiant stuff surrounding the dark and harsh society that is Skyrim during a civil war.
+Aaand lots of ambiant stuff surrounding the dark and harsh society that is Skyrim during a civil war (mostly in PEGI 18 version).
 
 ### About immersion
 I tried to keep all the mods above as integrated as possible into the game and not feel too out of place, but some of them would require extensive patching to remove the way out there stuff, so some things like dialogue or some Devious Devices outfits can feel out of place but the trade-off is usually worth it.
 
 ## Game Pre-launch
 ### Choose your version
-There are 2 version : Default and [PEGI 18](https://www.youtube.com/watch?v=JaQYJHUJlYE).
-
-Choose the one you want in MO2 profiles. The differences are that these mods and their corresponding patch are disabled in the PEGI 16 version : Trouble of Heroine, Hydra slavegirls, Damsels in distress, Public Whore, Simple Slavery, Paradise Halls, Diary Of Mine
+Choose NEFARAM Default or NEFARAM PEGI 18. in the drop down menu above the mod list on the left pane.
 
 ## Final Steps - Ingame
 ### Initial Actions
@@ -157,13 +157,13 @@ You can hide quests you dont want to do with [Hide your quests](https://www.nexu
 
 Press G for the Survival Wheel, with tons of useful actions to do. The 'Status' one especially.
 
-Children are disabled by default, if you want to reenable them like for the aretino quest go to MCM > Sex Lab - Sexual Fame > Base Settings > Uncheck disable children.
+Children are disabled by default, if you want to re-enable them like for the aretino quest go to MCM > Sex Lab - Sexual Fame > Base Settings > Uncheck disable children.
 
-You dont need the books to craft TAWOBA armors anymore, you only need the perks corresponding to the material, except for the thalmor variant which the book is at the same place as the orginal elven one. In fact I removed most weird conditions like books to craft armors from mods or chests with the armors placed in the world : you usually need just the right smithing perk and sometimes a quest completed ([Stormcloak gear](https://www.nexusmods.com/skyrimspecialedition/mods/60530) if you join the stormcloaks, [Brotherhood bandoliers](https://www.nexusmods.com/skyrimspecialedition/mods/67796) if you join them etc...), at merchants, or worn by NPCs. 
+You dont need the books to craft TAWOBA armors anymore, you only need the perks corresponding to the material, except for the thalmor variant which the book is at the same place as the original elven one. In fact I removed most weird conditions like books to craft armors from mods or chests with the armors placed in the world : you usually need just the right smithing perk and sometimes a quest completed ([Stormcloak gear](https://www.nexusmods.com/skyrimspecialedition/mods/60530) if you join the stormcloaks, [Brotherhood bandoliers](https://www.nexusmods.com/skyrimspecialedition/mods/67796) if you join them etc...), at merchants, or worn by NPCs. 
 
 If you have some devices you can't take off talk to blacksmiths or to jailmasters in city jails.
 
-Unless you want to use BOTH Devious Followers and Submissive Lola (hardcore), you can disable a follower as devious in the DF MCM.
+Unless you want to use BOTH Devious Followers and Submissive Lola (hardcore !), you can disable a follower as devious in the DF MCM.
 
 Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay and balance changes, but do so at your own risk, for example if you reenable decapitations in Violens you will crash :)
 

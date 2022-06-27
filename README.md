@@ -99,19 +99,19 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 
 [Devious followers](https://www.loverslab.com/files/file/11732-devious-followers-continued-se/) : You thought people would help you for free? They want a cut, and if you can't pay, they will find other ways to make you... CUSTOM CHANGES: custom armors considered 'pretty' for the deal: TAWOBA,TEWOBA,Ninirim Lingerie
 
+[Submissive Lola]() : Same a Devious followers, but more consentual and deep.
+
 [Milk Mod Economy](https://www.loverslab.com/files/file/6103-milk-mod-economy-se/) : You can make milk and sell it. CUSTOM CHANGES: removed the scripted 'economy' part of the mod, when you made your milk just can just sell it to merchants, the values are tweaked.
-
-[Yamete Kudasai](https://www.patreon.com/posts/yamete-kudasai-0-67182401) : The defeat mod. still in beta rn but seems solid. Theres other alternatives included in the modlist as optional but remember, once you start with a defeat mod, you need to keep it the whole game.
-
-[Corruption](https://www.loverslab.com/files/file/15787-corruption/) : When you are hit hard by enemies, or when you get raped, your character can get traumatized. To lower that trauma you need to do addictive actions such as drink alcohol, skooma, various types of sex to lower that trauma. Thus your character can get addicted to those actions in return, and even sometimes giving buffs ! However if your character is too far gone they will suffer debuffs when not doing those actions, sometimes very harsh ones. You can lower your corruption by praying.
-
-*(BETA comment: need feedback for the balance of that also)*
 
 [Sexlab Survival](https://www.loverslab.com/files/file/5914-sexlab-survival/)(modpage is outdated, version in the modlist 0.685) : LOTS of stuff here, also lots of stuff disabled by default in the modlist. But basically : Do something wrong in cities and suffer the consequences. and there are a lot more consequences than just a fine or jail... Also includes bikini system : you will progressively get buffs if you wear some but you will suffer debuffs if you wear regular armors again. You can enable some options back but it can get very intrusive (and also buggy). CUSTOM CHANGE : Armors considered Bikini : TAWOBA,TEWOBA, some others
 
 [Sexual Fame Comments](https://www.loverslab.com/files/file/14089-slsf-fame-comments-se/) : NPCs will gossip and react on what you do around them.
 
 [Radiant Prostitution](https://www.loverslab.com/files/file/17325-radiant-prostitution-gigolo-se/) : Talk to innkeepers, they have several new jobs for you... included patch to make follower be able to give jobs too. CUSTOM CHANGES: 'Working clothes': Ninirim Lingerie, Some of Ghaan craftable
+
+(PEGI 18) [Corruption](https://www.loverslab.com/files/file/15787-corruption/) : When you are hit hard by enemies, or when you get raped, your character can get traumatized. To lower that trauma you need to do addictive actions such as drink alcohol, skooma, various types of sex to lower that trauma. Thus your character can get addicted to those actions in return, and even sometimes giving buffs ! However if your character is too far gone they will suffer debuffs when not doing those actions, sometimes very harsh ones. You can lower your corruption by praying.
+
+*(BETA comment: need feedback for the balance of that also)*
 
 (PEGI 18) [Public Whore](https://www.loverslab.com/files/file/17026-public-whore/) : same as above, but more hardcore.
 
@@ -128,35 +128,14 @@ I tried to keep all the mods above as integrated as possible into the game and n
 
 ## Game Pre-launch
 ### Choose your version
-There are 2 version : [PEGI 16](https://www.youtube.com/watch?v=JkoUQAvYkVI) and [PEGI 18](https://www.youtube.com/watch?v=JaQYJHUJlYE).
+There are 2 version : Default and [PEGI 18](https://www.youtube.com/watch?v=JaQYJHUJlYE).
 
 Choose the one you want in MO2 profiles. The differences are that these mods and their corresponding patch are disabled in the PEGI 16 version : Trouble of Heroine, Hydra slavegirls, Damsels in distress, Public Whore, Simple Slavery, Paradise Halls, Diary Of Mine
 
-*BETA Comment : No PEGI 16 yet*
-
 ## Final Steps - Ingame
 ### Initial Actions
-After creating your character (NEEDS to be a woman), do the following :
 
-1) Press Backspace > File (top left) > import/export > in the drop-down menu select NEFARAM > import > ok > close the windows
-
-2) Open Inventory > click on [Additemmenu Pack] > click both books > read both books > you can drop the [Additemenu Pack].
-
-WAIT UNTIL THERE'S NO MORE MESSAGES APPEARING ON THE TOP LEFT
-
-3) Go to MCM > MCM Recorder > Click on NEFARAM and follow the Instructions > Click Run Recording. You will get messages on the top left again and even some popups appearing. This part can take several minutes, And even if nothing seems to be happening, something is happening. Wait until the Popup "NEFARAM has finished playing" appears. In the meantime you can press F10 and choose your body.
-
-4) Go to MCM > Wetfuction Redux > Targets > Select target Player:(your character name) > then a bit under > Start Effect > Exit menu
-
-5) Go to MCM > SLWidgets > General > Exposure Icon Enabled > Uncheck > Exit menu
-
-6) Go to MCM > Sex lab - Sexual Fame > Base Settings > Click on [Debug] reset all papyrus storage, Comment Probability 50%, config key Inser
-                                      > Customization NPC > Allow re-equip Uncheck
-
-7) Go to MCM > Sexlab > Sex Diary > Sexual Stats > You can set your sexual preference.
-
-*8) BETA Iwantwidget slight arousal alpha 0*
-
+Load The Savegame called 'NEFARAM_(Version)'
 
 ### Final notes and tips :
 *BETA COMMENT : Save often :')*
@@ -173,23 +152,27 @@ Press G for the Survival Wheel, with tons of useful actions to do.
 
 Children are disabled by default, if you want to reenable them like for the aretino quest go to MCM > Sex Lab - Sexual Fame > Base Settings > Uncheck disable children.
 
-Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay and balance changes, but do so at your own risk, for example if you reenable decapitations in violens you have a 50% chance to also decapitate your game when you decapitate someone (CTD)
+Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay and balance changes, but do so at your own risk, for example if you reenable decapitations in Violens you will crash :)
 
 Save often but not too much : avoid saving during combat or just before you load through a door. F5 now does a full save.
 
-### DONE ! You can save and never have to do this again ! Unless you update the list of course ;) . You should be fine even changing your race if you want to. 
+### You're DONE ! You can finally play :)
 
-## Resources
+## Resources and tips
 Keyboard layout (Also middle mouse to change camera shoulder, Mouse4 for blocking even while dual wielding or unarmed): 
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_0_1_Keyboard.png)
 
 HUD layout information :
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/hudinfo.jpg)
 
-Tawoba books : you dont need the books to craft the armors anymore, you only need the perks corresponding to the material, except for the thalmor variant which the book is at the same place as the orginal elven one.
+Tawoba books : you dont need the books to craft the armors anymore, you only need the perks corresponding to the material, except for the thalmor variant which the book is at the same place as the orginal elven one. In fact I removed most books for armors : you usually need just the right smithing perk and sometimes a quest completed (Stormcloak gear if you join the stormcloaks, Brotherhood bandoliers if you join them etc...).
+
+If you have some devian't take off talk to blacksmiths or to jailmasters in city jails.
+
+Unless you want to use BOTH Devious Followers and Submissive Lola (hardcore), you can disable a follower as devious in the DF MCM.
 
 ## Known Bugs
-You should not have too many CTDs execpt in dense NPC areas however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable).
+You should not have too many CTDs except in dense NPC areas however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable).
 
 Fighting with the arms bound has funky animations because Devious Devices was made for FNIS and this modlist uses Nemesis.
 

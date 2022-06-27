@@ -95,7 +95,7 @@ The situations depicted in the modlist do not represent any resemblance to reali
 ## The mods
 based on Sexlab Framework, with lots of new animations.
 
-I recommend reading a bit on each modpage here, I put small descriptions but there is no details. Some descriptions are annoted 'CUSTOM CHANGES', that meaons once you've read the modpage descriptions then read what I added and you will understand more.
+I recommend reading a bit on each modpage here, I put small descriptions but there is no details. Some descriptions are annoted 'CUSTOM CHANGES', that means once you've read the modpage descriptions then read what I added and you will understand more.
 
 [OSL Aroused](https://www.nexusmods.com/skyrimspecialedition/mods/65454) : your character can get horny. Lots of stuff tied to so its more of a framework. Your arousal level appears on the bottom left of the HUD.
 

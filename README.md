@@ -149,6 +149,8 @@ I recommend to play as dragonborn in the Skyrim Unbound MCM, because a lot of NP
 
 You can modify your body type with [OBody](https://www.nexusmods.com/skyrimspecialedition/mods/51084) (Press F10). Or others people's bodies man or woman if you aim at them with your crosshair.
 
+In the Sexlab MCM you can set the sexual orientation of your character.
+
 All debug spells are located in your [Powers Keyring](https://www.nexusmods.com/skyrimspecialedition/mods/42949) Power.
 
 The [Notification Log](https://www.nexusmods.com/skyrimspecialedition/mods/27707) MCM is very useful to read what you might've missed ingame.

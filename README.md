@@ -4,7 +4,7 @@
 License CC BY-NC-SA 4.0
 
 # Preamble
-NEFARAM is the next level of NSFW modlist. With lots of new content balanced around a deleveled world, experience a hardcore in every sense of the term, but rewarding new Skyrim !
+NEFARAM is the next level of Skyrim NSFW modlists. With lots of new content balanced around a deleveled world, experience a hardcore in every sense of the term, but rewarding new Skyrim !
 
 Inspired by the now defunct modlist Dungeons & Deviousness, but slightly less devious (or at least in a different way ;) )
 

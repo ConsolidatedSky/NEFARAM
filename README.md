@@ -141,7 +141,7 @@ Choose NEFARAM Default or NEFARAM PEGI 18. in the drop down menu above the mod l
 ## Final Steps - Ingame
 ### Initial Actions
 
-Load The Savegame called 'NEFARAM_(Version)'. The mod uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962?tab=description). I recommend you read the decription. You can customize your starting gear, spells, locations, in the MCM of that mod. When you're done, press Enter Key.
+Load The Savegame called 'NEFARAM_(Version)'. Press Enter when you're in the game, after that instructions will be on screen. The mod uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962?tab=description). I recommend you read the decription.
 
 ### Final notes and tips (VERY IMPORTANT READ ALL) :
 #### please read everything below so at least it will be in the back of your head when you play.

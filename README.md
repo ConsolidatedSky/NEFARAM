@@ -103,7 +103,7 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 
 [Devious Enchanted Chests](https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/) : If you open chests they have a chance to be trapped and equip bondage gear on your character.
 
-[Devious Lore](https://www.loverslab.com/files/file/16231-devious-lore-se) : adds NPCs that an help take off your devices, as well as some other wear to get some equipped. supposedly also adds some quests but I've had yet to play them as they're quite hard to start.
+[Devious Lore](https://www.loverslab.com/files/file/16231-devious-lore-se) : adds NPCs that an help take off your devices, as well as some other ways to get some equipped. supposedly also adds some quests but I've had yet to play them as they're quite hard to start.
 
 [Devious followers](https://www.loverslab.com/files/file/11732-devious-followers-continued-se/) : You thought people would help you for free? They want a cut, and if you can't pay, they will find other ways to make you... CUSTOM CHANGES: custom armors considered 'pretty' for the deal: TAWOBA,TEWOBA,Ninirim Lingerie
 

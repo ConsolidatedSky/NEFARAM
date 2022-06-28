@@ -167,7 +167,7 @@ If you have some devices you can't take off talk to blacksmiths or to jailmaster
 
 Unless you want to use BOTH Devious Followers and Submissive Lola (hardcore !), you can disable a follower as devious in the DF MCM.
 
-Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay and balance changes, but do so at your own risk, for example if you reenable decapitations in Violens you will crash :)
+Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay and balance changes, Like Sexlab Survival, by default I disabled something like 80% of the mod but you can reenable them, but be warned it becomes hardcore very quickly. However modify them at your own risk, for example if you reenable decapitations in Violens you will crash :)
 
 If suddenly you can't advance the main quest, it is due to [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
 

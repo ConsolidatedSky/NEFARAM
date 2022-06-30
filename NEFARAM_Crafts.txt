@@ -72,6 +72,7 @@ Stormcloak Warmaiden
 	
 Knight of the Village
 	Now light armor with stats like leather
+	reduced value
 	Perk : Intermediate smithing (Only cuirasses are craftable) (and only Gold,Red,Blue,White)
 	
 Vanilla Chokers and earrings

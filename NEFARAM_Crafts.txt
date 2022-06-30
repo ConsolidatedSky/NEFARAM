@@ -1,0 +1,108 @@
+
+
+here are the most advanced where I patched the mods, especially quest requirements to craft the outfits. The changes not mentioned are logical (eg: to craft a glass armor variant from a mod you need the corresponding perk). Without any perk you can craft any iron/hide outfits and weapons, including modded ones. Keep in mind this is only to craft them, you can aquire some of them at vendors or enemies.
+
+CHANGES IN VANILLA OUTFITS
+		
+	Clothing
+		Ragged Clothes : No perk required
+		Poor and middle class clothing : Basic smithing perk
+		Fine Clothing : Journeyman smithing perk
+		High end (jarl clothing, wedding, a couple unique ones): Advanced smithing perk
+	
+	Blades armor
+		Journeyman smithing + Main quest 'Alduin's Wall'
+	
+	Skaal outfit
+		Basic smithing + Dragonborn quest 'The Fate of the Skaal'
+	
+	Religious Amulets (that you need to craft Religious earrings and panties in other mods down below)
+		Journeyman smithing perk
+		
+	
+TAWOBA
+	All books removed, only need corresponding material perk except :
+	Wolf Bikini : Intermediate smithing + Companion Quest 'The Silver Hand'
+	Blades Bikini : Journeyman smithing + Main Quest 'Alduin's Wall'
+	Thalmor Variant of Elven : Rare smithing + Quest 'Missing in Action'
+	Falmer Bikini : Need Book
+	
+TEWOBA
+	No books required either
+	Ancient Nord Bikini : Basic smithing + Quest 'Glory of the Dead'
+	Imperial Bikini : Basic smithing + Join the Legion
+	
+Nocturnal Robes
+	Modified items required
+	Beggar : No perk required
+	Commoner : Basic smithing
+	Nocturnal : Basic smithing + Thieves quest 'Trinity Restored'
+	
+Panties of Skyrim
+	Adjusted perks required corresponding to material
+	
+Lingerie Collection
+	Perk : Journeyman smithing
+	Increased a bit materials required
+	Adjusted slot to Panties of Skyrim and Devious Devices (49)
+	Some of them sold by general goods merchants and Radiant Raiment
+	Worn by some NPCs (PEGI 18 Version)
+	
+Ghaan Revealing Outfits Craftable
+	Recipes only appear if you have the original item in inventory (to craft alternate Glass Armor you need a Glass Armor in your inventory)
+	The less skimpy ones (those without visible boobs/genitals) are integrated in the world.
+
+Girls Heavy Armor
+	Blades and Wolf same as TAWOBA
+	Blades armor worn by Delphine
+
+Bretonic Leather Armor
+	Basic smithing
+	
+Stormcloak Warmaiden
+	Basic smithing + Join the Stormcloaks
+
+Demon Hunter Armor
+	Advanced smithing
+	
+Bandoliers
+	Basic smithing
+	Dark Brotherhood Bandoliers : Basic smithing + Dark Bortherhood quest 'Sanctuary'
+	Worn by bandits
+	
+Knight of the Village
+	Now light armor with stats like leather
+	Perk : Intermediate smithing (Only cuirasses are craftable) (and only Gold,Red,Blue,White)
+	
+Vanilla Chokers an earrings
+	Worn by NPCs custom and random
+	Perk : Journeyman smithing
+	Articualtion choker/earrings : Journeyman smithing + Thieves quest 'Under New Management'
+
+DX Ancient Draugr
+	Perk : Advanced smithing
+
+Deze Armors
+	Sold by blacksmiths and Tonilia for Thieves armor (no change from mod)
+	Whiterun Armor not craftable
+	
+Deze Clothing
+	Not craftable but sold at Radiant Raiments and college mages, and worn by some NPCs (no change from mod)
+	
+Nordic Wanderer
+	No changes (small quest)
+	Worn by Mjoll
+	
+Armors of the Velothi
+	No changes
+
+Toughened Traveler Outfits
+	Worn by Couriers
+
+Devious Devices
+	Worn by somes NPCs (PEGI 18 Version)
+	Sold at jailmasters, blacksmiths, court wizards
+	Sellable at general goods and blacksmiths
+
+Beyond Skyrim - Bruma
+	Bruma bandit armors worn by some bandits in Skyrim (rarely)

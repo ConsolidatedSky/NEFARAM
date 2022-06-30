@@ -20,7 +20,7 @@
     - [Problems with installation](#problems-with-installation)
   - [Play the list !](#final-steps)
     - [Final notes](#final-notes-and-tips-very-important-read-all-)
-    - [Resources](#resources)
+    - [Resources (like keyboard layout)](#resources)
     - [Known Bugs](#known-bugs)
   - [Updating NEFARAM](#updating-the-modlist)
   - [Credits](#credits)

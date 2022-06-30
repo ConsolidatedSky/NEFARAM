@@ -90,7 +90,7 @@ Deze Clothing
 	Not craftable but sold at Radiant Raiments and college mages, and worn by some NPCs (no change from mod)
 	
 Nordic Wanderer
-	No changes (small quest)
+	No changes for crafting (small quest)
 	Worn by Mjoll
 	
 Armors of the Velothi

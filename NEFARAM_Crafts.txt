@@ -17,7 +17,10 @@ CHANGES IN VANILLA OUTFITS
 		Basic smithing + Dragonborn quest 'The Fate of the Skaal'
 	Religious Amulets (that you need to craft Religious earrings and panties in other mods down below)
 		Journeyman smithing perk
-	
+
+Demon Hunter Armor
+	Advanced smithing
+
 TAWOBA
 	All books removed, only need corresponding material perk except :
 	Wolf Bikini : Intermediate smithing + Companion Quest 'The Silver Hand'
@@ -30,7 +33,12 @@ TEWOBA
 	Ancient Nord Bikini : Basic smithing + Quest 'Glory of the Dead'
 	Imperial Bikini : Basic smithing + Join the Legion
 	
-Nocturnal Robes
+Bandoliers
+	Basic smithing
+	Dark Brotherhood Bandoliers : Basic smithing + Dark Bortherhood quest 'Sanctuary'
+	Worn by bandits
+	
+Nocturnal Robes minidresses
 	Modified items required
 	Beggar : No perk required
 	Commoner : Basic smithing
@@ -59,20 +67,12 @@ Bretonic Leather Armor
 	
 Stormcloak Warmaiden
 	Basic smithing + Join the Stormcloaks
-
-Demon Hunter Armor
-	Advanced smithing
-	
-Bandoliers
-	Basic smithing
-	Dark Brotherhood Bandoliers : Basic smithing + Dark Bortherhood quest 'Sanctuary'
-	Worn by bandits
 	
 Knight of the Village
 	Now light armor with stats like leather
 	Perk : Intermediate smithing (Only cuirasses are craftable) (and only Gold,Red,Blue,White)
 	
-Vanilla Chokers an earrings
+Vanilla Chokers and earrings
 	Worn by NPCs custom and random
 	Perk : Journeyman smithing
 	Articualtion choker/earrings : Journeyman smithing + Thieves quest 'Under New Management'

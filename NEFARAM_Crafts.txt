@@ -1,9 +1,9 @@
-
-
-here are the most advanced where I patched the mods, especially quest requirements to craft the outfits.
+Here are the most advanced where I patched the mods, especially quest requirements to craft the outfits.
 The changes not mentioned are logical (eg: to craft a glass armor variant from a mod you need the corresponding perk).
 Without any perk you can craft any iron/hide outfits and weapons, including modded ones.
 Keep in mind this is only to craft them, you can aquire some of them at vendors or enemies.
+
+LAST UPDATE : NEFARAM 0.1
 
 CHANGES IN VANILLA OUTFITS	
 	Clothing

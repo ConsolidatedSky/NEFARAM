@@ -10,53 +10,24 @@
 
 # Content
   - [Preamble](#preamble)
-  - [System Requirements](#requirements)
-  - [What makes NEFARAM Unique](#what-makes-nefaram-unique)
+  - [Main mods you should know about](#main-mods-you-should-know-about)
+  - [Main NSFW mods](#sex-part)
   - [Installation](#installation)
+    - [System Requirements](#requirements)
     - [Pre-Installation](#pre-installation)
-    - [Wabbajack Installation](#wabbajack-installation)
-      - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing AVO](#downloading-and-installing-AVO)
-      - [Problems with installation](#problems-with-installation)
-  - [Post-Installation](#post-installation)
-    - [Game Folder](#game-folder)
-    - [BethINI](#bethini)
-    - [ENB](#enb)
-  - [Playing the List](#playing-the-list)
-    - [Starting up the list](#starting-up-the-list)
-    - [In Game MCM Options](#in-game-mcm-options)
-    - [Starting the Game](#starting-the-game)
-  - [Updating AVO](#updating-the-modlist)
-  - [FAQ](#faq)
-   - [Removing the modlist](#removing-the-modlist)
-  - [Credits and Thanks](#credits-and-thanks)
-  - [Contact](#contact)
+    - [Installing Wabbajack](#installing-wabbajack)
+    - [Downloading and Installing NEFARAM](#downloading-and-installing-nefaram)
+    - [Problems with installation](#problems-with-installation)
+  - [Play the list !](#final-steps)
+    - [Final notes](#final-notes-and-tips-very-important-read-all-)
+    - [Resources](#resources)
+    - [Known Bugs](#known-bugs)
+  - [Updating NEFARAM](#updating-the-modlist)
+  - [Credits](#credits)
 
 # Preamble
 NEFARAM is the next level of Skyrim NSFW modlists. With lots of new content balanced around a deleveled world, experience a hardcore in every sense of the term, but rewarding new Skyrim !
 
-Inspired by the now defunct modlist Dungeons & Deviousness, but slightly less devious (or at least in a different way ;) )
-
-Based on [Animonculory Visual Overhaul Version 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul#readme). 
-
-# Requirements
-Latest Version of Skyrim Anniversary Edition WITH the paid Creation Club content.
-
-
-GPU : RTX2070 should get you good performance. I have a 2060 and it doesnt go under 30 in heavy NPC areas such as the Whiterun market. You can tweak performance by tweaking the ini files with BethIni and the ENB.
-
-Increase your pagefile (recommended : 40 GB).
-
-Size : 150 GB ( and another 150 for the downloads). Put the modlist on an SSD please.
-
-Wide Screens not tested.
-
-Made for keyboard playing.
-
-*BETA Comment : Only tested in 1080p. tell me how the HUD is in higher resolutions.*
-# Installation
-With Wabbajack
-# What makes NEFARAM unique :
 Skyrim is now a true harsh medieval place. You will need to fight, help, convince, escape, coerce both friends and foes to survive. Inspired by Requiem, expect an unforgiving world at your reach. But full of opportunities if you manage to seize them...
 
 The philosophy NEFARAM is tough, but fair, on every aspect of the game.
@@ -67,49 +38,53 @@ That brings us to the core of NEFARAM-combat: You need to delegate some parts of
 
 Lots of new quests, places and people to meet !
 
+Inspired by the now defunct modlist Dungeons & Deviousness, but slightly less devious (or at least in a different way ;) )
+
+Based on [Animonculory Visual Overhaul Version 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul#readme). 
+
 # Main Mods you should know about
 
 Full modlist : [Click Here](https://loadorderlibrary.com/lists/nefaram)
 
-## Visuals
+### Visuals
 Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md) (very gorgeous yet performance friendly) modified.
 
-## Combat
+### Combat
 lots of tweaks with [Simonrim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files), [Stamina Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/50502), [NPCs use potions]([https://www.nexusmods.com/skyrimspecialedition/mods/40102](https://www.nexusmods.com/skyrimspecialedition/mods/67489)) (with [animations !](https://www.nexusmods.com/skyrimspecialedition/mods/45182)), [True Unleveled Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/56881/), [NPCStatRescaler](https://github.com/theSkyseS/NPCStatRescaler). For the combat feeling, expect it to be slower but more impacting than vanilla.
 
 And the very important one : [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807),
 
 Also Important if thats your playstyle : [Potion Toxicity](https://www.nexusmods.com/skyrimspecialedition/mods/32576)
 
-## Quests
+### Quests
 Many quests revamped : [Jayserpa](https://www.nexusmods.com/skyrimspecialedition/users/5201727?tab=user+files)'s quests, and tweaks to pretty much all of Skyrim's factions but the big ones are [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673), [Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748/), [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), and im planning on adding more but slowly to make sure they integrate well.
 
-## Followers
+### Followers
 [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194/), [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [Serana Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161), [Mythos](https://www.nexusmods.com/skyrimspecialedition/mods/51576?tab=posts), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Morgaine](https://www.nexusmods.com/skyrimspecialedition/mods/41027),[Misty Skye ( (｡)(｡) )](https://www.nexusmods.com/skyrimspecialedition/mods/16374?tab=description) and some others...
 
-## Armors & Outfits
+### Armors & Outfits
 Vanilla outfits remodeled, and new ones that i tried to keep "lore-friendly" and "immersive" as much as possible... And they are pretty much all custom integrated into the game with crafting costs, conditions. Basically, armors look like 'real' armors on both genders, but some of the clothing can be skimpy. They are also balanced and integrated into the world, like in chests, vendors, or worn by people. That includes the Creation Club content. You an also now craft most vanilla clothes, and usually you can make them in a skimpy/alternative variant on a tanning rack if you have the original.
 
-## Economy
+### Economy
 A lot of mods to make the game's economy feel alive with [prices fluctuations](https://www.nexusmods.com/skyrimspecialedition/mods/26325) depending on a lot of [factors](https://www.nexusmods.com/skyrimspecialedition/mods/23081). As you cannot invest in all skills you have opportunities for gold sinks to alleviates some of your weaknesses (No smithing? you can [order a new armor from a blacksmith](https://www.nexusmods.com/skyrimspecialedition/mods/51254) for example) as well as very creative loverslab money sinks...
 
-## Player Homes
+### Player Homes
 [Improved Vanilla Ones](https://www.nexusmods.com/skyrimspecialedition/mods/37236) + Creation Club houses with a couple mods to make them better. The costs in particular are higher.
 
-## Other mods to be aware of :
+### Other mods to be aware of :
 [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414), [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
 
 Survival is an important aspect of this modlist, but your whole gameplay will not revolve around it if you plan a bit in advance. Do note that a lot of the placed food in the world is removed, you will no longer find centuries old bread in your nordic crypts.
 
-## User Interface
+### User Interface
 [Dear Diary Dark mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837),[TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) and others (see images at the bottom for example)
 
-## And More
+### And More
 [Lots](https://www.nexusmods.com/skyrimspecialedition/mods/37982) of [cities](https://www.nexusmods.com/skyrimspecialedition/mods/56731) and [villages](https://www.nexusmods.com/skyrimspecialedition/mods/35977) and landcapes overhauls, new [interiors](https://www.nexusmods.com/skyrimspecialedition/mods/6130) roleplay mods and animations... There is a lot of things that will be new and yet consistent with the game, to make hopefully one of the most fresh Skyrim experiences. Did you say you want to [become a bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357) ?
 
 # Sex part
 
-## Disclamer
+### Disclamer
 
 NO creature support.
 
@@ -121,7 +96,7 @@ There is no mods for posing/screen archery. This is a modlist made for gameplay 
 
 The situations depicted in the modlist do not represent any resemblance to reality and are obviously a fantasy and should stay that way.
 
-## The mods
+### The mods
 based on Sexlab Framework, with lots of new animations.
 
 I recommend reading a bit on each modpage here, I put small descriptions but there is no details. Some descriptions are annoted 'CUSTOM CHANGES', that means once you've read the modpage descriptions then read what I added and you will understand more.
@@ -163,16 +138,80 @@ Aaand lots of ambiant stuff surrounding the dark and harsh society that is Skyri
 ### About immersion
 I tried to keep all the mods above as integrated as possible into the game and not feel too out of place, but some of them would require extensive patching to remove the way out there stuff, so some things like dialogue or some Devious Devices outfits can feel out of place but the trade-off is usually worth it.
 
-## Game Pre-launch
-### Choose your version
-Choose NEFARAM Default or NEFARAM PEGI 18. in the drop down menu above the mod list on the left pane.
+# Installation
 
-## Final Steps - Ingame
-### Initial Actions
+It is recommended to have have Nexus Premium, or you will have to do a lot of clicking ! If you are updating the modlist, you can safely skip to the [updating section](#updating).
 
-Load The Savegame called 'NEFARAM_(Version)'. Press Enter when you're in the game, after that instructions will be on screen. The mod uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962?tab=description). I recommend you read the decription.
+### Requirements
+Latest Version of Skyrim Anniversary Edition WITH all the paid Creation Club content.
 
-### Final notes and tips (VERY IMPORTANT READ ALL) :
+Check the [AVO Systems requirements](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/edit/main/Readme.md#system-requirements).
+NEFARAM requires a bit more CPU power than that, expect it to be ~20% more resource demanding than AVO.
+
+Increase your pagefile (recommended : 40 GB).
+
+Size : 150 GB ( and another 150 for the downloads). Put the modlist on an SSD please.
+
+Wide Screens not tested.
+
+Made for keyboard playing.
+
+*BETA Comment : Only tested in 1080p. tell me how the HUD is in higher resolutions.*
+
+### Pre-Installation
+
+Prior to installing NEFARAM, please complete the following steps.
+
+1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
+4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
+5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
+6. You also need to start the games to the main menu in order to download all the creations.
+
+#### Installing Wabbajack
+
+Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
+
+#### Downloading and Installing NEFARAM
+
+Downloading and installing NEFARAM can take a while depending on your internet connection and computer.
+
+1. Open Wabbajack and click on browse modlists.
+2. Press the download button on NEFARAM and wait for it to download.
+3. Set the installation folder to be somewhere like C:\Games\NEFARAM. **Do not install it to your desktop or downloads folder.**
+4. The download location does not need to be on a SSD but it makes installing a bit faster
+5. Press the play button to begin.
+6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
+7. If the installation is successful, jump for joy and move onto [Final Steps](#final-steps). If the installation is unsuccessful, follow what is below.
+
+#### Problems with installation
+
+It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
+
+- Could not download x:
+	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+
+- x is not a whitelisted download:
+
+	 - This will happen when I update the modlist. Please check if there is a new update or wait until you see a release ping.
+
+- Wabbajack could not find my game folder:
+
+	- Either buy the game or go back to the [Pre-Installation](#pre-installation) step.
+
+- Antivirus reports a virus:
+	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+
+### Final Steps
+1. Choose the profile you want to play, Default or PEGI 18 in the drop-down menu on the top-left of the MO2 window.
+
+2. Click on 'Play NEFARAM' when you're ready !
+
+3. And finally load the savegame called 'NEFARAM_(Version)'. Press Enter when you're in the game, after that instructions will be on screen. The mod uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962?tab=description). I recommend you read the decription.
+
+# Final notes and tips (VERY IMPORTANT READ ALL) :
+
 #### please read everything below so at least it will be in the back of your head when you play.
 I recommend to play as dragonborn in the Skyrim Unbound MCM, because a lot of NPCs and Quests will still reference you as dragonborn, unless you can make some RP about it (Some of the new followers can 'act' as Dragonborn as you will discover... (Only in PEGI18 version)).
 
@@ -202,16 +241,16 @@ If suddenly you can't advance the main quest, it is due to [At Your Own Pace](ht
 
 Save often but not too much : avoid saving during combat or just before you load through a door. F5 now does a full save.
 
-### You're DONE ! You can finally play :)
+#### You're DONE ! You can finally play :)
 
-## Resources
+# Resources
 Keyboard layout (Also middle mouse to change camera shoulder, Mouse4 for blocking even while dual wielding or unarmed): 
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_0_1_Keyboard.png)
 
 HUD layout information :
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/hudinfo.jpg)
 
-## Known Bugs
+# Known Bugs
 You should not have too many CTDs except in dense NPC areas however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable).
 
 The list is not that resource heavy except in cities where there are a lot of NPCs, and if your CPU is not very strong you can have some stutters.
@@ -224,7 +263,13 @@ If you try to sell equipped devious devices to merchants, you get the money and 
 
 Each time you start your game animations will take a few seconds to register (T-Pose on NPCs). That is normal. If the legs move, you are good.
 
-## Credits
+# Updating the modlist
+
+Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
+
+Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
+
+# Credits
 The Animonculary Team for AVO 1.3 which this modlist is built upon
 
 All the mod authors whose mods are included here that put a lot of work into them

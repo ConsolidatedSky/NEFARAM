@@ -8,6 +8,7 @@ LAST UPDATE : NEFARAM 0.1
 
 CHANGES IN VANILLA OUTFITS	
 	Clothing
+		Craft at tanning rack
 		Ragged Clothes : No perk required
 		Poor and middle class clothing : Basic smithing perk
 		Fine Clothing : Journeyman smithing perk

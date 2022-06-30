@@ -4,8 +4,33 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 
-# Content
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
+# Content
+  - [Preamble](#preamble)
+  - [System Requirements](#requirements)
+  - [What makes NEFARAM Unique](#what-makes-nefaram-unique)
+  - [Installation](#installation)
+    - [Pre-Installation](#pre-installation)
+    - [Wabbajack Installation](#wabbajack-installation)
+      - [Installing Wabbajack](#installing-wabbajack)
+      - [Downloading and Installing AVO](#downloading-and-installing-AVO)
+      - [Problems with installation](#problems-with-installation)
+  - [Post-Installation](#post-installation)
+    - [Game Folder](#game-folder)
+    - [BethINI](#bethini)
+    - [ENB](#enb)
+  - [Playing the List](#playing-the-list)
+    - [Starting up the list](#starting-up-the-list)
+    - [In Game MCM Options](#in-game-mcm-options)
+    - [Starting the Game](#starting-the-game)
+  - [Updating AVO](#updating-the-modlist)
+  - [FAQ](#faq)
+   - [Removing the modlist](#removing-the-modlist)
+  - [Credits and Thanks](#credits-and-thanks)
+  - [Contact](#contact)
 
 # Preamble
 NEFARAM is the next level of Skyrim NSFW modlists. With lots of new content balanced around a deleveled world, experience a hardcore in every sense of the term, but rewarding new Skyrim !
@@ -31,7 +56,7 @@ Made for keyboard playing.
 *BETA Comment : Only tested in 1080p. tell me how the HUD is in higher resolutions.*
 # Installation
 With Wabbajack
-# What make NEFARAM unique :
+# What makes NEFARAM unique :
 Skyrim is now a true harsh medieval place. You will need to fight, help, convince, escape, coerce both friends and foes to survive. Inspired by Requiem, expect an unforgiving world at your reach. But full of opportunities if you manage to seize them...
 
 The philosophy NEFARAM is tough, but fair, on every aspect of the game.

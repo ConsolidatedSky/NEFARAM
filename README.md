@@ -229,7 +229,7 @@ Press G for the Survival Wheel, with tons of useful actions to do. The 'Status' 
 
 Children are disabled by default, if you want to re-enable them like for the aretino quest go to MCM > Sex Lab - Sexual Fame > Base Settings > Uncheck disable children.
 
-You dont need the books to craft TAWOBA armors anymore, you only need the perks corresponding to the material, except for the thalmor variant which the book is at the same place as the original elven one. In fact I removed most weird conditions like books to craft armors from mods or chests with the armors placed in the world : you usually need just the right smithing perk and sometimes a quest completed ([Stormcloak gear](https://www.nexusmods.com/skyrimspecialedition/mods/60530) if you join the stormcloaks, [Brotherhood bandoliers](https://www.nexusmods.com/skyrimspecialedition/mods/67796) if you join them etc...), at merchants, or worn by NPCs. 
+I removed most weird conditions like books to craft armors from mods or chests with the armors placed in the world : you usually need just the right smithing perk and sometimes a quest completed ([Stormcloak gear](https://www.nexusmods.com/skyrimspecialedition/mods/60530) if you join the stormcloaks, [Brotherhood bandoliers](https://www.nexusmods.com/skyrimspecialedition/mods/67796) if you join them etc...), at merchants, or worn by NPCs. [Here](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_Crafts.txt) is the full list of changes.
 
 If you have some devices you can't take off talk to blacksmiths or to jailmasters in city jails.
 

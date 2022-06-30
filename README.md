@@ -92,6 +92,8 @@ There are 2 versions of the list : Default and [PEGI 18](https://www.youtube.com
 
 Non-consent(Rape) (In PEGI 18 version) is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. Usually if you notice a typo in dialogue that will lead to one of the loverslab mod with a sex scene... There is however slavery both of you and others but you will see it coming (more or less).
 
+You need to be at least 18 Years Old to play the modlist.
+
 There is no mods for posing/screen archery. This is a modlist made for gameplay first and foremost but you can add your own pose mods if ya want.
 
 The situations depicted in the modlist do not represent any resemblance to reality and are obviously a fantasy and should stay that way.

@@ -58,7 +58,7 @@ Lingerie Collection
 	
 Ghaan Revealing Outfits Craftable
 	Recipes only appear if you have the original item in inventory (to craft alternate Glass Armor you need a Glass Armor in your inventory)
-	The less skimpy ones (those without visible boobs/genitals) are integrated in the world.
+	The less skimpy ones (those without visible bobs/vagenes) are integrated in the world.
 
 Girls Heavy Armor
 	Blades and Wolf same as TAWOBA

@@ -26,7 +26,7 @@
   - [Credits](#credits)
 
 # Preamble
-NEFARAM is the next level of Skyrim NSFW modlists. With lots of new content balanced around a deleveled world, experience a hardcore in every sense of the term, but rewarding new Skyrim !
+NEFARAM is the next level of Skyrim NSFW modlists. With lots of new content, experience a hardcore in every sense of the term, but rewarding new Skyrim !
 
 Skyrim is now a true harsh medieval place. You will need to fight, help, convince, escape, coerce both friends and foes to survive. Inspired by Requiem, expect an unforgiving world at your reach. But full of opportunities if you manage to seize them...
 

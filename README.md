@@ -255,15 +255,13 @@ HUD layout information :
 # Known Bugs
 You should not have too many CTDs except in dense NPC areas however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable).
 
-The list is not that resource heavy except in cities where there are a lot of NPCs, and if your CPU is not very strong you can have some stutters.
-
 Fighting with the arms bound has funky animations because Devious Devices was made for FNIS and this modlist uses Nemesis.
 
 When you want to dismiss a follower sometimes they are not dismissed, thats because they are still a Devious Follower. Mods using custom followers are the culprit of this, you can use the Devious Followers MCM to force remove your follower once you paid them in full.
 
 If you try to sell equipped devious devices to merchants, you get the money and keep the device. So infinite money. So don't cheat. Or do it, its your game.
 
-Each time you start your game animations will take a few seconds to register (T-Pose on NPCs). That is normal. If the legs move, you are good.
+When you first start your game animations will take a few seconds to register (T-Pose on NPCs). That is normal. If the legs move, you are good.
 
 # Updating the modlist
 

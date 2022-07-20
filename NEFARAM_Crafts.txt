@@ -41,7 +41,7 @@ Bandoliers
 	Worn by bandits
 	
 Nocturnal Robes minidresses
-	Modified items required
+	Modified craft recipe
 	Beggar : No perk required
 	Commoner : Basic smithing
 	Nocturnal : Basic smithing + Thieves quest 'Trinity Restored'
@@ -57,8 +57,9 @@ Lingerie Collection
 	Worn by some NPCs (PEGI 18 Version)
 	
 Ghaan Revealing Outfits Craftable
+	craft at tanning rack
 	Recipes only appear if you have the original item in inventory (to craft alternate Glass Armor you need a Glass Armor in your inventory)
-	The less skimpy ones (those without visible bobs/vagenes) are integrated in the world.
+	The less skimpy ones (those without visible genitals) are integrated in the world.
 
 Girls Heavy Armor
 	Blades and Wolf same as TAWOBA
@@ -95,7 +96,7 @@ Nordic Wanderer
 	Worn by Mjoll
 	
 Armors of the Velothi
-	No changes
+	No changes but check the modpage quite weird way to get them
 
 Toughened Traveler Outfits
 	Worn by Couriers
@@ -107,3 +108,9 @@ Devious Devices
 
 Beyond Skyrim - Bruma
 	Bruma bandit armors worn by some bandits in Skyrim (rarely)
+	
+KS Hairdos SMP (Wigs)
+	craftable at tanning racks
+	Need scissors in inventory which are found in nordic ruins (vanilla), sometimes sold by merchants or craftable at forge (both added by me)
+	made clothes (was light armor)
+	

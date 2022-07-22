@@ -206,7 +206,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ### Final Steps
-1. Choose the profile you want to play, Default or PEGI 18 in the drop-down menu on the top-left of the MO2 window.
+1. Move the included savefile 'saves' folder in (Where you installed the modlist)\profiles\NEFARAM PEGI 18
 
 2. Click on 'Play NEFARAM' when you're ready !
 

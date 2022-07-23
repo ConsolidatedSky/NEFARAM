@@ -266,7 +266,7 @@ When you first start your game animations will take a few seconds to register (T
 
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
+Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating unless you add [NoDelete] in front of your custom mods' names.
 
 # Credits
 The Animonculary Team for AVO 1.3 which this modlist is built upon

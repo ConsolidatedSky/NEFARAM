@@ -118,5 +118,5 @@ Twilight Princess armor (upcoming in 0.1.4)
 	Journeyman Smithing + Quest 'Awakening' (meet Serana)
 	Nerf Armor to Elven values
 	Nerfed books
-	Worn by Serana
+	Worn by Serana (also gave her a Dark Dagger instead of Elven)
 	

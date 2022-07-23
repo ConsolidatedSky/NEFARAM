@@ -171,6 +171,7 @@ Prior to installing NEFARAM, please complete the following steps.
 4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 6. You also need to start the games to the main menu in order to download all the creations.
+7. You need to have a [LoversLab](https://www.loverslab.com/) account
 
 #### Installing Wabbajack
 
@@ -180,13 +181,15 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 Downloading and installing NEFARAM can take a while depending on your internet connection and computer.
 
-1. Open Wabbajack and click on browse modlists.
-2. Press the download button on NEFARAM and wait for it to download.
-3. Set the installation folder to be somewhere like C:\Games\NEFARAM. **Do not install it to your desktop or downloads folder.**
-4. The download location does not need to be on a SSD but it makes installing a bit faster
-5. Press the play button to begin.
-6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
-7. If the installation is successful, jump for joy and move onto [Final Steps](#final-steps). If the installation is unsuccessful, follow what is below.
+1. Download the Main file on the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/71749?tab=files) of the list and extract it somewhere.
+1. Open Wabbajack, login to nexus and Loverslab using the gear on top of the window.
+3. click on install from disc.
+4. Select the .wabbajack file you previously downloaded.
+5. Set the installation folder to be somewhere like C:\Games\NEFARAM. **Do not install it to your desktop or downloads folder.**
+6. The download location does not need to be on a SSD but it makes installing a bit faster
+7. Press the play button to begin.
+8. If you have Nexus Premium you can just let it process (around 90 GB of files to download), if you're not then you need to get clicking !
+9. If the installation is successful, jump for joy and move onto [Final Steps](#final-steps). If the installation is unsuccessful, follow what is below.
 
 #### Problems with installation
 
@@ -195,21 +198,16 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
 
-- x is not a whitelisted download:
-
-	 - This will happen when I update the modlist. Please check if there is a new update or wait until you see a release ping.
-
 - Wabbajack could not find my game folder:
-
 	- Either buy the game or go back to the [Pre-Installation](#pre-installation) step.
 
 - Antivirus reports a virus:
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-### Final Steps
+## Final Steps
 1. Move the included savefile 'saves' folder in (Where you installed the modlist)\profiles\NEFARAM PEGI 18
 
-2. Click on 'Play NEFARAM' when you're ready !
+2. Open ModOrganizer.exe in the main folder of the modlist, and Click on 'Play NEFARAM' on the top right when you're ready !
 
 3. And finally load the savegame called 'NEFARAM_(Version)'. Press Enter when you're in the game, after that instructions will be on screen. The mod uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962?tab=description). I recommend you read the decription.
 

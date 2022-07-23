@@ -9,6 +9,8 @@
 
 [Join Discord for support and more !](https://discord.gg/23MrNKGHeN)
 
+[Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/71749)
+
 # Content
   - [Preamble](#preamble)
   - [Main mods you should know about](#main-mods-you-should-know-about)

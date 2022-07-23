@@ -115,6 +115,8 @@ KS Hairdos SMP (Wigs)
 	made clothes (was light armor)
 	
 Twilight Princess armor (upcoming in 0.1.4)
-	Basic Smithing + Quest 'Awakening' (meet Serana)
+	Journeyman Smithing + Quest 'Awakening' (meet Serana)
+	Nerf Armor to Elven values
+	Nerfed books
 	Worn by Serana
 	

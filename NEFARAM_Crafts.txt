@@ -114,10 +114,10 @@ KS Hairdos SMP (Wigs)
 	Need scissors in inventory which are found in nordic ruins (vanilla), sometimes sold by merchants or craftable at forge (both added by me)
 	made clothes (was light armor)
 	
-HDT-SMP Hair and Wigs (Upcoming in 0.1.4)
+HDT-SMP Hair and Wigs
 	Same as above
 	
-Twilight Princess armor (upcoming in 0.1.4)
+Twilight Princess armor
 	Journeyman Smithing + Dawnguard quest 'Awakening' (meet Serana)
 	Nerf Armor to Elven values
 	Nerfed books

@@ -110,7 +110,7 @@ Beyond Skyrim - Bruma
 	Bruma bandit armors worn by some bandits in Skyrim (rarely)
 	
 KS Hairdos SMP (Wigs)
-	craftable at tanning racks
+	Wigs craftable at tanning racks
 	Need scissors in inventory which are found in nordic ruins (vanilla), sometimes sold by merchants or craftable at forge (both added by me)
 	made clothes (was light armor)
 	

@@ -1,4 +1,4 @@
-# NEFARAM 0.1 (Beta)
+# NEFARAM
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM%20LOGO%20BETA.png)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]

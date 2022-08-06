@@ -1,1 +1,42 @@
-
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "NEFARAM",
+    "description": "NEFARAM is the next level of NSFW modlists. With lots of new content introduced in the world, experience a hardcore in every sense of the term, but rewarding new Skyrim !\r\n\r\nVersion 0.2",
+    "author": "ConsolidatedSky",
+    "maintainers": [
+      "github/ConsolidatedSky"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Survival",
+      "Creation Club",
+      "New Lands",
+      "New Quests",
+      "SimonRim",
+      "Sexlab",
+      "Visuals"
+    ],
+    "nsfw": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/ConsolidatedSky/NEFARAM/main/16by9.png",
+      "readme": "https://github.com/ConsolidatedSky/NEFARAM#readme",
+      "download": "https://authored-files.wabbajack.org/NEFARAM.wabbajack_63d62891-114f-4986-b575-6903ecf900e5",
+      "machineURL": "NEFARAM",
+      "discordURL": "https://discord.gg/YXw5GxZEMd"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "P/ESeoCZOak=",
+      "Size": 341497741,
+      "NumberOfArchives": 1393,
+      "SizeOfArchives": 101315856264,
+      "NumberOfInstalledFiles": 191686,
+      "SizeOfInstalledFiles": 156974378707
+    },
+    "version": "1.0"
+  }
+]

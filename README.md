@@ -128,10 +128,6 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 
 (PEGI 18) [Public Whore](https://www.loverslab.com/files/file/17026-public-whore/) : kind of same as above, but more hardcore.
 
-(PEGI 18) [Corruption](https://www.loverslab.com/files/file/15787-corruption/) : When you are hit hard by enemies, or when you get raped, your character can get traumatized. To lower that trauma you need to do addictive actions such as drink alcohol, skooma, various types of sex to lower that trauma. Thus your character can get addicted to those actions in return, and even sometimes giving buffs ! However if your character is too far gone they will suffer debuffs when not doing those actions, sometimes very harsh ones. You can lower your corruption by praying.
-
-*(BETA comment: need feedback for the balance of that also)*
-
 (PEGI 18) [Simple Slavery](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/) : Framework to get enslaved in other mods. Right now its quite difficult to become enslaved unless you do it manually. You can manually enslave yourself for a truly hardcore start if thats your thing in the MCM.
 
 (PEGI 18) [Paradise Halls](https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/) & [Diary of Mine](https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/) : YOU can enslave people, train them and make them fighters or sell them for money. at a slave auction west of Fellglow Keep. Talk to Olava for a tutorial quest. CUSTOM CHANGES : removed some dialogues from Diary of Mine to declutter it a bit. Look on the keyboard layout below to see the Key to enslave NPCs. The process to enslave is quite clunky so save before you do it and dont spam the button.

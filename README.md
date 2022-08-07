@@ -90,7 +90,7 @@ Survival is an important aspect of this modlist, but your whole gameplay will no
 
 NO creature support.
 
-Non-consent(Rape) (In PEGI 18 version) is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. Usually if you notice a typo in dialogue that will lead to one of the loverslab mod with a sex scene... There is however slavery both of you and others but you will see it coming (more or less).
+Non-consent(Rape) is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. Usually if you notice a typo in dialogue that will lead to one of the loverslab mod with a sex scene... There is however slavery both of you and others but you will see it coming (more or less).
 
 You need to be at least 18 Years Old to play the modlist.
 

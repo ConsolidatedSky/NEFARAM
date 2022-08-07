@@ -1,4 +1,3 @@
-# NEFARAM
 ![alt text](https://raw.githubusercontent.com/ConsolidatedSky/NEFARAM/main/16by9.png)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]

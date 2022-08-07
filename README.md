@@ -202,14 +202,14 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Antivirus reports a virus:
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-## Final Steps
+# Final Steps
 1. Open ModOrganizer.exe in the main folder of the modlist, expand the red separator called 'SAVEGAME'
 2. Right Click on NEFARAM Save > Open in explorer
 3. Copy 'saves 'to (modlist location)\profiles\NEFARAM
 4. Click on 'Play NEFARAM' on the top right when you're ready !
 5. And finally load the savegame called 'NEFARAM_(Version)'. Press Enter when you're in the game, after that instructions will be on screen. The mod uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962?tab=description). I recommend you read the decription.
 
-# Final notes and tips (VERY IMPORTANT READ ALL) :
+## Final notes and tips (VERY IMPORTANT READ ALL) :
 
 #### please read everything below so at least it will be in the back of your head when you play.
 I recommend to play as dragonborn in the Skyrim Unbound MCM, because a lot of NPCs and Quests will still reference you as dragonborn, unless you can make some RP about it (Some of the new followers can 'act' as Dragonborn as you will discover... (Only in PEGI18 version)).

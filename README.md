@@ -52,7 +52,7 @@ Full modlist : [Click Here](https://loadorderlibrary.com/lists/nefaram)
 Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md) (very gorgeous yet performance friendly) modified.
 
 ### Combat
-lots of tweaks with [Simonrim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files), [Stamina Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/50502), [NPCs use potions]([https://www.nexusmods.com/skyrimspecialedition/mods/40102](https://www.nexusmods.com/skyrimspecialedition/mods/67489)) (with [animations !](https://www.nexusmods.com/skyrimspecialedition/mods/45182)), [True Unleveled Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/56881/), [NPCStatRescaler](https://github.com/theSkyseS/NPCStatRescaler), [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347?tab=description). For the combat feeling, expect it to be slower but more impacting than vanilla.
+lots of tweaks with [Simonrim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files), [Stamina Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/50502), [NPCs use potions]([https://www.nexusmods.com/skyrimspecialedition/mods/40102](https://www.nexusmods.com/skyrimspecialedition/mods/67489)) (with [animations !](https://www.nexusmods.com/skyrimspecialedition/mods/45182)), [NPCStatRescaler](https://github.com/theSkyseS/NPCStatRescaler), [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347?tab=description). For the combat feeling, expect it to be slower but more impacting than vanilla.
 
 And the very important one : [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807),
 

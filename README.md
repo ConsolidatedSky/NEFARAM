@@ -1,5 +1,5 @@
 # NEFARAM
-![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM%20LOGO%20BETA.png)
+![alt text](https://raw.githubusercontent.com/ConsolidatedSky/NEFARAM/main/16by9.png)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 

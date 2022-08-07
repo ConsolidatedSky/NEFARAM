@@ -90,13 +90,11 @@ Survival is an important aspect of this modlist, but your whole gameplay will no
 
 NO creature support.
 
-There are 2 versions of the list : Default and [PEGI 18](https://www.youtube.com/watch?v=JaQYJHUJlYE). As the name suggests, the most hardcore stuff is only available in the PEGI 18 version. In the default version, sexual content is mostly limited to consensual stuff on demand. In the PEGI 18 version, the whole world is drastically changed. You will not get assaulted at every corner, but the sexual content becomes an integral part of the gameplay.
-
 Non-consent(Rape) (In PEGI 18 version) is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. Usually if you notice a typo in dialogue that will lead to one of the loverslab mod with a sex scene... There is however slavery both of you and others but you will see it coming (more or less).
 
 You need to be at least 18 Years Old to play the modlist.
 
-There is no mods for posing/screen archery. This is a modlist made for gameplay first and foremost but you can add your own pose mods if ya want.
+There are no mods for posing/screen archery. This is a modlist made for gameplay first and foremost but you can add your own pose mods if ya want.
 
 The situations depicted in the modlist do not represent any resemblance to reality and are obviously a fantasy and should stay that way.
 
@@ -125,15 +123,15 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 
 [Radiant Prostitution](https://www.loverslab.com/files/file/17325-radiant-prostitution-gigolo-se/) : Talk to innkeepers, they have several new jobs for you... included patch to make follower be able to give jobs too. CUSTOM CHANGES: 'Working clothes': Ninirim Lingerie, Some of Ghaan craftable.
 
-(PEGI 18) [Public Whore](https://www.loverslab.com/files/file/17026-public-whore/) : kind of same as above, but more hardcore.
+[Public Whore](https://www.loverslab.com/files/file/17026-public-whore/) : kind of same as above, but more hardcore.
 
-(PEGI 18) [Simple Slavery](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/) : Framework to get enslaved in other mods. Right now its quite difficult to become enslaved unless you do it manually. You can manually enslave yourself for a truly hardcore start if thats your thing in the MCM.
+[Simple Slavery](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/) : Framework to get enslaved in other mods. Right now its quite difficult to become enslaved unless you do it manually. You can manually enslave yourself for a truly hardcore start if thats your thing in the MCM.
 
-(PEGI 18) [Paradise Halls](https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/) & [Diary of Mine](https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/) : YOU can enslave people, train them and make them fighters or sell them for money. at a slave auction west of Fellglow Keep. Talk to Olava for a tutorial quest. CUSTOM CHANGES : removed some dialogues from Diary of Mine to declutter it a bit. Look on the keyboard layout below to see the Key to enslave NPCs. The process to enslave is quite clunky so save before you do it and dont spam the button.
+[Paradise Halls](https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/) & [Diary of Mine](https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/) : YOU can capture people, train them and make them fighters or sell them for money. at a slave auction west of Fellglow Keep. Talk to Olava for a tutorial quest. CUSTOM CHANGES : removed some dialogues from Diary of Mine to declutter it a bit. Look on the keyboard layout below to see the Key to capture NPCs. The process to capture is quite clunky so save before you do it and dont spam the button.
 
 And quests : [Amorous adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/), [Book of Mara](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/), [Sisters of Dibella](https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/page/93/#comment-3462553), and some vanilla ones tweaked to include the [possibility](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) of sex. The big one is (PEGI 18) [Trouble of Heroine](https://www.loverslab.com/files/file/10454-troubles-of-heroine/), it adds NPCs with more or less big quests (like 3DNPCs) but it is optional because it is perhaps the most extreme one in this modlist (humiliation, rape, the whole shebang) and also lots of typos. By default I disabled the ones I tested that I found borderline or too annoying, but its a very large mod. However among all of this there is some good stuff in there. Aslo [Angrim's Apprentice](https://www.loverslab.com/files/file/384-angrims-apprentice-feb-10-2016/). CUSTOM CHANGES: patches for Sunhelm, Milkmod, also some balance.
 
-Aaand lots of ambiant stuff surrounding the dark and harsh society that is Skyrim during a civil war (mostly in PEGI 18 version).
+Aaand lots of ambiant stuff surrounding the dark and harsh society that is Skyrim during a civil war.
 
 ### About immersion
 I tried to keep all the mods above as integrated as possible into the game and not feel too out of place, but some of them would require extensive patching to remove the way out there stuff, so some things like dialogue or some Devious Devices outfits can feel out of place but the trade-off is usually worth it.

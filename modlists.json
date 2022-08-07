@@ -22,7 +22,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/ConsolidatedSky/NEFARAM/main/16by9.png",
+      "image": "https://raw.githubusercontent.com/ConsolidatedSky/NEFARAM/main/logowithimage.jpg",
       "readme": "https://github.com/ConsolidatedSky/NEFARAM#readme",
       "download": "https://build.wabbajack.org/authored_files/direct_link/NEFARAM.wabbajack_7e409e32-5c9b-417e-b275-ea663125111f",
       "machineURL": "NEFARAM",

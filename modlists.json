@@ -8,6 +8,7 @@
       "github/ConsolidatedSky"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Survival",
       "Creation Club",
@@ -18,25 +19,27 @@
       "Visuals"
     ],
     "nsfw": true,
+    "utility_list": false,
     "image_contains_title": true,
     "force_down": true,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ConsolidatedSky/NEFARAM/main/logowithimage.jpg",
       "readme": "https://github.com/ConsolidatedSky/NEFARAM#readme",
-      "download": "https://build.wabbajack.org/authored_files/direct_link/NEFARAM.wabbajack_7e409e32-5c9b-417e-b275-ea663125111f",
+      "download": "https://authored-files.wabbajack.org/NEFARAM.wabbajack_cd4edfc4-8335-4c5d-8509-173daeb10684",
       "machineURL": "NEFARAM",
       "discordURL": "https://discord.gg/YXw5GxZEMd"
     },
     "download_metadata": {
-         "$type": "DownloadMetadata, Wabbajack.Lib",
-         "Hash": "0khx4BGlqBM=",
-         "Size": 341345821,
-         "NumberOfArchives": 1393,
-         "SizeOfArchives": 101315856264,
-         "NumberOfInstalledFiles": 191687,
-         "SizeOfInstalledFiles": 156973925573
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "8/pN72Zp+j4=",
+      "Size": 332930583,
+      "NumberOfArchives": 1392,
+      "SizeOfArchives": 101347260007,
+      "NumberOfInstalledFiles": 192528,
+      "SizeOfInstalledFiles": 156851140739
     },
-    "version": "0.2.0.1"
+    "version": "0.2.1",
+    "RepositoryName": ""
   }
 ]

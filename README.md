@@ -210,7 +210,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 ## Final notes and tips (VERY IMPORTANT READ ALL) :
 
 #### please read everything below so at least it will be in the back of your head when you play.
-To play a male gender character, it is recommended you disable as much as possible stuff in the MCMs of the following mods : Sexlab Survival, Devious Vanilla
+To play a male gender character, it is recommended you customize the MCMs of the following mods : Sexlab Survival, Devious Vanilla, Devious Followers
 
 I recommend to play as dragonborn in the Skyrim Unbound MCM, because a lot of NPCs and Quests will still reference you as dragonborn, unless you can make some RP about it (Some of the new followers can 'act' as Dragonborn as you will discover... ).
 

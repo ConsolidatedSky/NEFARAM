@@ -202,10 +202,15 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 # Final Steps
 1. Open ModOrganizer.exe in the main folder of the modlist
+
 THE FOLLOWING 1.* STEPS ARE ONLY IF YOU ARE INSTALLING A NEFARAM VERSION BELOW 0.2.2  :
+
 1.1. expand the red separator on the left pane called 'SAVEGAME'
+
 1.2. Right Click on NEFARAM Save > Open in explorer
+
 1.3. Copy 'saves 'to (modlist location)\profiles\NEFARAM
+
 2. Click on 'Play NEFARAM' on the top right when you're ready !
 3. And finally load the savegame called 'NEFARAM_(Version)'. Press Enter when you're in the game, after that instructions will be on screen. The mod uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962?tab=description). I recommend you read the decription.
 

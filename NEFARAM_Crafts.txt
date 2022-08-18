@@ -4,8 +4,6 @@ Without any perk you can craft any iron/hide level outfits and weapons, includin
 Keep in mind this is only to craft them, you can aquire some of them at vendors or enemies.
 Press Ctrl+F to search for an outfit in particular.
 
-LAST UPDATE : NEFARAM 0.1
-
 CHANGES IN VANILLA OUTFITS	
 	Clothing
 		Craft at tanning rack

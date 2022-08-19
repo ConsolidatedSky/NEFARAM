@@ -174,8 +174,8 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 Downloading and installing NEFARAM can take a while depending on your internet connection and computer.
 
-1. Download the Main file on the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/71749?tab=files) of the list and extract it somewhere.
-1. Open Wabbajack, login to nexus and Loverslab using the gear on top of the window.
+1. Open Wabbajack, login to Nexus and Loverslab using the gear on top of the window.
+1. Click 'Browse Modlists', tick 'Show Unofficial Lists' and search for NEFARAM, and download it. Alternatively you can download it from the Nexus page.
 3. click on install from disc.
 4. Select the .wabbajack file you previously downloaded.
 5. Set the installation folder to be somewhere like C:\Games\NEFARAM. **Do not install it to your desktop or downloads folder.**

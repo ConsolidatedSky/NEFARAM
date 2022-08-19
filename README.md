@@ -174,7 +174,7 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 Downloading and installing NEFARAM can take a while depending on your internet connection and computer.
 
-1. Open Wabbajack, login to Nexus and Loverslab using the gear on top of the window.
+1. Open [Wabbajack](https://www.wabbajack.org/), login to Nexus and Loverslab using the gear on top of the window.
 1. Click 'Browse Modlists', tick 'Show Unofficial Lists' and search for NEFARAM, and download it. Alternatively you can download it from the Nexus page.
 3. click on install from disc.
 4. Select the .wabbajack file you previously downloaded.

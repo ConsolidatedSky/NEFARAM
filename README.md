@@ -151,7 +151,7 @@ NEFARAM requires a bit more CPU power than that, expect it to be ~20% more resou
 
 Increase your pagefile (recommended : 40 GB).
 
-Size : 142 GB ( and another 87 for the downloads). Put the modlist on an SSD please.
+Size : 163 GB ( and another 95 for the downloads). Put the modlist on an SSD please.
 
 Wide Screens not tested.
 

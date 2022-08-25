@@ -68,6 +68,7 @@ Bretonic Leather Armor
 	
 Stormcloak Warmaiden
 	Basic smithing + Join the Stormcloaks
+	Worn by some Stormcloaks
 	
 Knight of the Village
 	Now light armor with stats like leather
@@ -121,3 +122,6 @@ Twilight Princess armor
 	Nerfed books
 	Worn by Serana (also gave her a Dark Dagger instead of Elven)
 	
+Coco Pinup Cheongsam
+	Sold by Nelacar (college)
+	Worn by Mirabelle Ervine

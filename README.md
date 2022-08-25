@@ -195,6 +195,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
 
+- Unable to download Tools_HavokBehaviorPostProcess_readme.txt (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|tools\havokbehaviorpostprocess\readme.txt)
+	- Install the [Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
+
 - Wabbajack could not find my game folder:
 	- Either buy the game or go back to the [Pre-Installation](#pre-installation) step.
 

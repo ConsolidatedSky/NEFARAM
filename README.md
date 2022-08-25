@@ -52,14 +52,15 @@ Full modlist : [Click Here](https://loadorderlibrary.com/lists/nefaram)
 Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md) (very gorgeous yet performance friendly) modified.
 
 ### Combat
-lots of tweaks with [Simonrim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files), [Stamina Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/50502), [NPCs use potions]([https://www.nexusmods.com/skyrimspecialedition/mods/40102](https://www.nexusmods.com/skyrimspecialedition/mods/67489)) (with [animations !](https://www.nexusmods.com/skyrimspecialedition/mods/45182)), [NPCStatRescaler](https://github.com/theSkyseS/NPCStatRescaler), [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347?tab=description). For the combat feeling, expect it to be slower but more impacting than vanilla.
+[Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741?tab=description)
+lots of tweaks with [Simonrim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files), [NPCs use potions]([https://www.nexusmods.com/skyrimspecialedition/mods/40102](https://www.nexusmods.com/skyrimspecialedition/mods/67489)) (with [animations !](https://www.nexusmods.com/skyrimspecialedition/mods/45182)), [NPCStatRescaler](https://github.com/theSkyseS/NPCStatRescaler), [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347?tab=description). For the combat feeling, expect it to be slower but more impacting than vanilla.
 
-And the very important one : [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807),
-
-Also Important if thats your playstyle : [Potion Toxicity](https://www.nexusmods.com/skyrimspecialedition/mods/32576)
+Other important ones : [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807), [Potion Toxicity](https://www.nexusmods.com/skyrimspecialedition/mods/32576)
 
 ### Quests
-Many quests revamped : [Jayserpa](https://www.nexusmods.com/skyrimspecialedition/users/5201727?tab=user+files)'s quests, and tweaks to pretty much all of Skyrim's factions but the big ones are [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673), [Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748/), [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), and im planning on adding more but slowly to make sure they integrate well.
+Big ones are [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Chanterelle](https://www.nexusmods.com/skyrimspecialedition/mods/32603), [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673), [Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748/), [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), and im planning on adding more but slowly to make sure they integrate well.
+
+Many quests revamped : [Jayserpa](https://www.nexusmods.com/skyrimspecialedition/users/5201727?tab=user+files)'s quests, and tweaks to pretty much all of Skyrim's factions
 
 ### Followers
 [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194/), [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [Serana Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161), [Mythos](https://www.nexusmods.com/skyrimspecialedition/mods/51576?tab=posts), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Morgaine](https://www.nexusmods.com/skyrimspecialedition/mods/41027),[Misty Skye ( (｡)(｡) )](https://www.nexusmods.com/skyrimspecialedition/mods/16374?tab=description) and some others...
@@ -128,6 +129,8 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 [Simple Slavery](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/) : Framework to get enslaved in other mods. Right now its quite difficult to become enslaved unless you do it manually. You can manually enslave yourself for a truly hardcore start if thats your thing in the MCM.
 
 [Paradise Halls](https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/) & [Diary of Mine](https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/) : YOU can capture people, train them and make them fighters or sell them for money. at a slave auction west of Fellglow Keep. Talk to Olava for a tutorial quest. CUSTOM CHANGES : removed some dialogues from Diary of Mine to declutter it a bit. Look on the keyboard layout below to see the Key to capture NPCs. The process to capture is quite clunky so save before you do it and dont spam the button.
+
+[Yamete Kudasai](https://www.loverslab.com/files/file/23123-yamete-kudasai/) : The defeat mod.
 
 And quests : [Amorous adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/), [Book of Mara](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/), [Sisters of Dibella](https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/page/93/#comment-3462553), and some vanilla ones tweaked to include the [possibility](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) of sex. The big one is [Trouble of Heroine](https://www.loverslab.com/files/file/10454-troubles-of-heroine/), it adds NPCs with more or less big quests (like 3DNPCs) but it is optional because it is perhaps the most extreme one in this modlist (humiliation, rape, the whole shebang) and also lots of typos. By default I disabled the ones I tested that I found borderline or too annoying, but its a very large mod. However among all of this there is some good stuff in there. Aslo [Angrim's Apprentice](https://www.loverslab.com/files/file/384-angrims-apprentice-feb-10-2016/). CUSTOM CHANGES: patches for Sunhelm, Milkmod, also some balance.
 
@@ -206,7 +209,12 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 ## Final notes and tips (VERY IMPORTANT READ ALL) :
 
 #### please read everything below so at least it will be in the back of your head when you play.
-To play a male gender character, it is recommended you customize the MCMs of the following mods : Sexlab Survival, Devious Vanilla, Devious Followers, db Enchanted Chests
+To play a male gender character, do the following :
+1. Create your character
+2. Press 'Stay Here'
+3. Press Escape > Mod Configuration > MCM Recorder > MALE CHARACTER
+4. Follow the instructions. You will get popups just click OK on them all.
+5. Done !
 
 I recommend to play as dragonborn in the Skyrim Unbound MCM, because a lot of NPCs and Quests will still reference you as dragonborn, unless you can make some RP about it (Some of the new followers can 'act' as Dragonborn as you will discover... ).
 
@@ -237,7 +245,7 @@ Save often but not too much : avoid saving during combat or just before you load
 #### You're DONE ! You can finally play :)
 
 # Resources
-Keyboard layout (Also middle mouse to change camera shoulder, Mouse4 for blocking even while dual wielding or unarmed): 
+Keyboard layout : Also middle mouse to change camera shoulder, Mouse4 for blocking even while dual wielding or unarmed, Mouse5 to toggle aimlock: 
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_0_1_Keyboard.png)
 
 HUD layout information :

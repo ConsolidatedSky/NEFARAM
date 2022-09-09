@@ -249,7 +249,7 @@ Save often but not too much : avoid saving during combat or just before you load
 
 # Resources
 Keyboard layout : Also middle mouse to change camera shoulder, Mouse4 for blocking even while dual wielding or unarmed, Mouse5 to toggle aimlock: 
-![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_0_1_Keyboard.png)
+![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_Keyboard.png)
 
 HUD layout information :
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/hudinfo.jpg)

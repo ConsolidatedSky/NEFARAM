@@ -252,7 +252,7 @@ Keyboard layout : Also middle mouse to change camera shoulder, Mouse4 for blocki
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_Keyboard.png)
 
 HUD layout information :
-![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/hudinfo.jpg)
+![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/hudinfo.png)
 
 # Known Bugs
 You should not have too many CTDs except in dense NPC areas however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable).

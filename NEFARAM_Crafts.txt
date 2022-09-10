@@ -125,3 +125,9 @@ Twilight Princess armor
 Coco Pinup Cheongsam
 	Sold by Nelacar (college)
 	Worn by Mirabelle Ervine
+	
+Northern God Armor
+	Now craftable
+	Advanced Smithing + Being Nord Race
+	Reduced value to Ebony-ish
+	Small chance to be on Nord Bandit Chiefs

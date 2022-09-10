@@ -63,7 +63,7 @@ Big ones are [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45
 Many quests revamped : [Jayserpa](https://www.nexusmods.com/skyrimspecialedition/users/5201727?tab=user+files)'s quests, and tweaks to pretty much all of Skyrim's factions
 
 ### Followers
-[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194/), [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [Serana Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161), [Mythos](https://www.nexusmods.com/skyrimspecialedition/mods/51576?tab=posts), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Morgaine](https://www.nexusmods.com/skyrimspecialedition/mods/41027),[Misty Skye ( (｡)(｡) )](https://www.nexusmods.com/skyrimspecialedition/mods/16374?tab=description) and some others...
+[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194/), [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [Serana Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161), [Mythos](https://www.nexusmods.com/skyrimspecialedition/mods/51576?tab=posts), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Morgaine](https://www.nexusmods.com/skyrimspecialedition/mods/41027),[Misty Skye ( (｡)(｡) )](https://www.nexusmods.com/skyrimspecialedition/mods/16374?tab=description), [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622?tab=description) and some others...
 
 ### Armors & Outfits
 Vanilla outfits remodeled, and new ones that i tried to keep "lore-friendly" and "immersive" as much as possible... And they are pretty much all custom integrated into the game with crafting costs, conditions. Basically, armors look like 'real' armors on both genders, but some of the clothing can be skimpy. They are also balanced and integrated into the world, like in chests, vendors, or worn by people. That includes the Creation Club content. You an also now craft most vanilla clothes, and usually you can make them in a skimpy/alternative variant on a tanning rack if you have the original.
@@ -106,9 +106,13 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 
 [OSL Aroused](https://www.nexusmods.com/skyrimspecialedition/mods/65454) : your character can get horny. Lots of stuff tied to so its more of a framework. Your arousal level appears on the bottom left of the HUD.
 
+[Sexlab Separate Orgasms](https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/) : Minigame during sex scenes. (check Keyboard layout below)
+
 [Devious Devices](https://www.loverslab.com/files/file/15078-devious-devices-le-50/) : more of a framework for other mods but introduces bondage gear in Skyrim. I recommend you try to understand a bit how it works or it can become more frustrating than it is supposed to be. CUSTOM CHANGES : You can buy and sell the devices to merchants (see bug list at the bottom tho)
 
 [Devious Enchanted Chests](https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/) : If you open chests they have a chance to be trapped and equip bondage gear on your character.
+
+[Yamete Kudasai](https://www.loverslab.com/files/file/23123-yamete-kudasai/) : The defeat mod. When you reach 0 health, various things will happen to you.
 
 [Devious Lore](https://www.loverslab.com/files/file/16231-devious-lore-se) : adds NPCs that an help take off your devices, as well as some other ways to get some equipped. supposedly also adds some quests but I've had yet to play them as they're quite hard to start.
 
@@ -129,8 +133,6 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 [Simple Slavery](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/) : Framework to get enslaved in other mods. Right now its quite difficult to become enslaved unless you do it manually. You can manually enslave yourself for a truly hardcore start if thats your thing in the MCM.
 
 [Paradise Halls](https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/) & [Diary of Mine](https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/) : YOU can capture people, train them and make them fighters or sell them for money. at a slave auction west of Fellglow Keep. Talk to Olava for a tutorial quest. CUSTOM CHANGES : removed some dialogues from Diary of Mine to declutter it a bit. Look on the keyboard layout below to see the Key to capture NPCs. The process to capture is quite clunky so save before you do it and dont spam the button.
-
-[Yamete Kudasai](https://www.loverslab.com/files/file/23123-yamete-kudasai/) : The defeat mod.
 
 And quests : [Amorous adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/), [Book of Mara](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/), [Sisters of Dibella](https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/page/93/#comment-3462553), and some vanilla ones tweaked to include the [possibility](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) of sex. The big one is [Trouble of Heroine](https://www.loverslab.com/files/file/10454-troubles-of-heroine/), it adds NPCs with more or less big quests (like 3DNPCs) but it is optional because it is perhaps the most extreme one in this modlist (humiliation, rape, the whole shebang) and also lots of typos. By default I disabled the ones I tested that I found borderline or too annoying, but its a very large mod. However among all of this there is some good stuff in there. Aslo [Angrim's Apprentice](https://www.loverslab.com/files/file/384-angrims-apprentice-feb-10-2016/). CUSTOM CHANGES: patches for Sunhelm, Milkmod, also some balance.
 

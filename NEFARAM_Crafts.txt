@@ -52,7 +52,7 @@ Lingerie Collection
 	Increased a bit materials required
 	Adjusted slot to Panties of Skyrim and Devious Devices (49)
 	Some of them sold by general goods merchants and Radiant Raiment
-	Worn by some NPCs (PEGI 18 Version)
+	Worn by some NPCs
 	
 Ghaan Revealing Outfits Craftable
 	craft at tanning rack
@@ -101,7 +101,7 @@ Toughened Traveler Outfits
 	Worn by Couriers
 
 Devious Devices
-	Worn by somes NPCs (PEGI 18 Version)
+	Worn by somes NPCs
 	Sold at jailmasters, blacksmiths, court wizards
 	Sellable at general goods and blacksmiths
 

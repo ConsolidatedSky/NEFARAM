@@ -22,6 +22,7 @@ Demon Hunter Armor
 	Advanced smithing
 
 TAWOBA
+	Sold by blacksmiths
 	All books removed, only need corresponding material perk except :
 	Wolf Bikini : Intermediate smithing + Companion Quest 'The Silver Hand'
 	Blades Bikini : Journeyman smithing + Main Quest 'Alduin's Wall'
@@ -29,6 +30,7 @@ TAWOBA
 	Falmer Bikini : Need Book
 	
 TEWOBA
+	Sold by blacksmiths
 	No books required either
 	Ancient Nord Bikini : Basic smithing + Quest 'Glory of the Dead'
 	Imperial Bikini : Basic smithing + Join the Legion
@@ -131,3 +133,7 @@ Northern God Armor
 	Advanced Smithing + Being Nord Race
 	Reduced value to Ebony-ish
 	Small chance to be on Nord Bandit Chiefs
+	
+Stalhrim bikini
+	No book required
+	Advanced smithing + quest 'A New Source of Stalhrim'

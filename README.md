@@ -229,6 +229,8 @@ In the Sexlab MCM you can set the sexual orientation of your character.
 
 All debug spells are located in your [Powers Keyring](https://www.nexusmods.com/skyrimspecialedition/mods/42949) Power.
 
+Temper or have someone temper your weapons, or they can break !
+
 The [Notification Log](https://www.nexusmods.com/skyrimspecialedition/mods/27707) MCM is very useful to read what you might've missed ingame.
 
 You can hide quests you dont want to do with [Hide your quests](https://www.nexusmods.com/skyrimspecialedition/mods/50125).

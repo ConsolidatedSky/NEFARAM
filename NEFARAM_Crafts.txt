@@ -137,3 +137,13 @@ Northern God Armor
 Stalhrim bikini
 	No book required
 	Advanced smithing + quest 'A New Source of Stalhrim'
+	
+Ayleid Piercings
+	Need diamond/saphire in inventory (same as original mod)
+	Nerfed 1 item
+	
+Chanterelle
+	Stendar's Sword of Justice to switch type 1h or 2h need the other in inventory
+
+Dev Aveza 
+	Beacon needs captain spell known

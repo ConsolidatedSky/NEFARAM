@@ -59,7 +59,7 @@ lots of tweaks with [Simonrim](https://www.nexusmods.com/skyrimspecialedition/us
 Other important ones : [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807), [Potion Toxicity](https://www.nexusmods.com/skyrimspecialedition/mods/32576)
 
 ### Quests
-Big ones are [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Chanterelle](https://www.nexusmods.com/skyrimspecialedition/mods/32603), [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673), [Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748/), [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), and im planning on adding more but slowly to make sure they integrate well.
+Big ones are [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Chanterelle](https://www.nexusmods.com/skyrimspecialedition/mods/32603), [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673), [Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748/), [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Saints & Seducers Extended Cut](https://www.nexusmods.com/skyrimspecialedition/mods/72772) and im planning on adding more but slowly to make sure they integrate well.
 
 Many quests revamped : [Jayserpa](https://www.nexusmods.com/skyrimspecialedition/users/5201727?tab=user+files)'s quests, and tweaks to pretty much all of Skyrim's factions
 

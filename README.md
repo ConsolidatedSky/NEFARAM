@@ -250,6 +250,8 @@ If suddenly you can't advance the main quest, it is due to [At Your Own Pace](ht
 
 Save often but not too much : avoid saving during combat or just before you load through a door. F5 now does a full save.
 
+When you want to dismiss a follower sometimes they are not dismissed, thats because they are still a Devious Follower. Mods using custom followers are the culprit of this, you can use the Devious Followers MCM to force remove your follower once you paid them in full.
+
 #### You're DONE ! You can finally play :)
 
 # Resources
@@ -263,8 +265,6 @@ HUD layout information :
 You should not have too many CTDs except in dense NPC areas however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable).
 
 Fighting with the arms bound has funky animations because Devious Devices was made for FNIS and this modlist uses Nemesis.
-
-When you want to dismiss a follower sometimes they are not dismissed, thats because they are still a Devious Follower. Mods using custom followers are the culprit of this, you can use the Devious Followers MCM to force remove your follower once you paid them in full.
 
 If you try to sell equipped devious devices to merchants, you get the money and keep the device. So infinite money. So don't cheat. Or do it, its your game.
 

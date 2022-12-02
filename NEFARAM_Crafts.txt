@@ -147,3 +147,14 @@ Chanterelle
 
 Dev Aveza 
 	Beacon needs captain spell known
+
+Kaidan
+	Basic smithing for 'Wedding Attire'
+	
+Adventurer Armor Mashup
+	Made some craftable with Basic smithing
+	Made light armor
+	Is meant to complement the overall outfit of your character, mix & match stuff with TAWOBA
+	
+Ravelent Leggings
+	Aligned conditions with Ultimate Lingerie Collection

@@ -158,3 +158,9 @@ Adventurer Armor Mashup
 	
 Ravelent Leggings
 	Aligned conditions with Ultimate Lingerie Collection
+	
+TsunTsun Armor
+	Perk : Journeyman smithing
+	Recognized as Bikini for ingame purposes
+	Rebalanced values
+	Worn By Safia and Grooella

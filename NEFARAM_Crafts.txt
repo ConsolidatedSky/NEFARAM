@@ -163,4 +163,4 @@ TsunTsun Armor
 	Perk : Journeyman smithing
 	Recognized as Bikini for ingame purposes
 	Rebalanced values
-	Worn By Safia and Grooella
+	Worn By Grooella

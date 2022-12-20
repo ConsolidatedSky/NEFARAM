@@ -32,7 +32,7 @@ TAWOBA
 TEWOBA
 	Sold by blacksmiths
 	No books required either
-	Ancient Nord Bikini : Basic smithing + Quest 'Glory of the Dead'
+	Ancient Nord Bikini : Basic smithing + Quest 'Forbidden Legend'
 	Imperial Bikini : Basic smithing + Join the Legion
 	
 Bandoliers

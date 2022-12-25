@@ -248,7 +248,7 @@ Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay 
 
 If suddenly you can't advance the main quest, it is due to [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
 
-Save often but not too much : avoid saving during combat or just before you load through a door. F5 now does a full save.
+Save often but not too much : **avoid saving during combat or just before you load through a door**. F5 now does a full save.
 
 When you want to dismiss a follower sometimes they are not dismissed, thats because they are still a Devious Follower. Mods using custom followers are the culprit of this, you can use the Devious Followers MCM to force remove your follower once you paid them in full.
 

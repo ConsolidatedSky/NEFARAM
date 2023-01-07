@@ -256,7 +256,7 @@ When you want to dismiss a follower sometimes they are not dismissed, thats beca
 
 # Resources
 Keyboard layout : Also middle mouse to change camera shoulder, Mouse4 for blocking even while dual wielding or unarmed, Mouse5 to toggle aimlock: 
-![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_Keyboard.png)
+![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_Keyboard%200.7.png)
 
 HUD layout information :
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/hudinfo.png)

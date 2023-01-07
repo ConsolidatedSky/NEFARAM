@@ -17,6 +17,11 @@ CHANGES IN VANILLA OUTFITS
 		Basic smithing + Dragonborn quest 'The Fate of the Skaal'
 	Religious Amulets (that you need to craft Religious earrings and panties in other mods down below)
 		Journeyman smithing perk
+	Can craft basic tools with no perks
+	Silver weapons
+		Basic smithing
+	Arcane archer pack (creation club)
+		Journeyman smithing
 
 Demon Hunter Armor
 	Advanced smithing
@@ -144,6 +149,7 @@ Ayleid Piercings
 	
 Chanterelle
 	Stendar's Sword of Justice to switch type 1h or 2h need the other in inventory
+	Native war arrows craftable after you've been to Chanterelle
 
 Dev Aveza 
 	Beacon needs captain spell known
@@ -164,3 +170,13 @@ TsunTsun Armor
 	Recognized as Bikini for ingame purposes
 	Rebalanced values
 	Worn By Grooella
+
+Daegon Follower
+	You need blood potion in inventory to craft the Bloodcursed bolts
+	
+Sunjeong's Ninirim Collection
+	Big one, more stuff will get added when I have ideas on where to place them
+	Removed the museum
+	To craft add yourself the book 'Ninirim Outfits Recipe Book' (not balanced, OP stuff)
+	Added so far to :
+		'Adventurer' in Bleak Falls Barrow

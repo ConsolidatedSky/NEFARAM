@@ -110,7 +110,7 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 
 [Sexlab Separate Orgasms](https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/) : Minigame during sex scenes. (check Keyboard layout below)
 
-[Devious Devices](https://www.loverslab.com/files/file/15078-devious-devices-le-50/) : more of a framework for other mods but introduces bondage gear in Skyrim. I recommend you try to understand a bit how it works or it can become more frustrating than it is supposed to be. CUSTOM CHANGES : You can buy and sell the devices to merchants (see bug list at the bottom tho)
+[Devious Devices](https://www.loverslab.com/files/file/15078-devious-devices-le-50/) : more of a framework for other mods but introduces bondage gear in Skyrim. I recommend you try to understand a bit how it works or it can become more frustrating than it is supposed to be. *CUSTOM CHANGES : You can buy and sell the devices to merchants (see bug list at the bottom tho)*
 
 [Devious Enchanted Chests](https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/) : If you open chests they have a chance to be trapped and equip bondage gear on your character.
 
@@ -118,13 +118,13 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 
 [Devious Lore](https://www.loverslab.com/files/file/16231-devious-lore-se) : adds NPCs that an help take off your devices, as well as some other ways to get some equipped. supposedly also adds some quests but I've had yet to play them as they're quite hard to start.
 
-[Devious followers](https://www.loverslab.com/files/file/11732-devious-followers-continued-se/) : You thought people would help you for free? They want a cut, and if you can't pay, they will find other ways to make you... CUSTOM CHANGES: custom armors considered 'pretty' for the deal: TAWOBA,TEWOBA,Ninirim Lingerie
+[Devious followers](https://www.loverslab.com/files/file/11732-devious-followers-continued-se/) : You thought people would help you for free? They want a cut, and if you can't pay, they will find other ways to make you... *CUSTOM CHANGES: custom armors considered 'pretty' for the deal: TAWOBA,TEWOBA,Ninirim Lingerie*
 
 [Submissive Lola](https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/) : Similar to Devious followers, but less about money and more about Sub/Dom relations. This one will not begin without you seing it coming, contrary to above.
 
-[Milk Mod Economy](https://www.loverslab.com/files/file/6103-milk-mod-economy-se/) : You can make milk and sell it. CUSTOM CHANGES: removed the 'economy' part of the mod, when you made your milk just sell it to merchants, the values are tweaked.
+[Milk Mod Economy](https://www.loverslab.com/files/file/6103-milk-mod-economy-se/) : You can make milk and sell it. *CUSTOM CHANGES: removed the 'economy' part of the mod, when you made your milk just sell it to merchants, the values are tweaked.*
 
-[Sexlab Survival](https://www.loverslab.com/files/file/5914-sexlab-survival/) (modpage is outdated, version in the modlist 0.685) : LOTS of stuff here, also lots of stuff disabled by default in the modlist. But basically : Do something wrong in cities and suffer the consequences. and there are a lot more consequences than just a fine or jail... You can enable some options back but it can get very intrusive (and also buggy). CUSTOM CHANGE : Armors considered Bikini : TAWOBA,TEWOBA, some others
+[Sexlab Survival](https://www.loverslab.com/files/file/5914-sexlab-survival/) (modpage is outdated, version in the modlist 0.685) : LOTS of stuff here, also lots of stuff disabled by default in the modlist. But basically : Do something wrong in cities and suffer the consequences. and there are a lot more consequences than just a fine or jail... You can enable some options back but it can get very intrusive (and also buggy). *CUSTOM CHANGE : Armors considered Bikini : TAWOBA,TEWOBA, some others*
 
 [Sexual Fame Comments](https://www.loverslab.com/files/file/14089-slsf-fame-comments-se/) : NPCs will gossip and react on what you do around them.
 
@@ -134,9 +134,9 @@ I recommend reading a bit on each modpage here, I put small descriptions but the
 
 [Simple Slavery](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/) : Framework to get enslaved in other mods. Right now its quite difficult to become enslaved unless you do it manually. You can manually enslave yourself for a truly hardcore start if thats your thing in the MCM.
 
-[Paradise Halls](https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/) & [Diary of Mine](https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/) : YOU can capture people, train them and make them fighters or sell them for money. at a slave auction west of Fellglow Keep. Talk to Olava for a tutorial quest. CUSTOM CHANGES : removed some dialogues from Diary of Mine to declutter it a bit. To capture NPCs, use the interface from [Yamete Kudasai](https://www.loverslab.com/files/file/23123-yamete-kudasai/).
+[Paradise Halls](https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/) & [Diary of Mine](https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/) : YOU can capture people, train them and make them fighters or sell them for money. at a slave auction west of Fellglow Keep. Talk to Olava for a tutorial quest. *CUSTOM CHANGES : removed some dialogues from Diary of Mine to declutter it a bit. To capture NPCs, use the interface from [Yamete Kudasai](https://www.loverslab.com/files/file/23123-yamete-kudasai/).*
 
-And quests : [Amorous adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/), [Book of Mara](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/), [Sisters of Dibella](https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/page/93/#comment-3462553), and some vanilla ones tweaked to include the [possibility](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) of sex. The big one is [Trouble of Heroine](https://www.loverslab.com/files/file/10454-troubles-of-heroine/), it adds NPCs with more or less big quests (like 3DNPCs) but it is optional because it is perhaps the most extreme one in this modlist (humiliation, rape, the whole shebang) and also lots of typos. By default I disabled the ones I tested that I found borderline or too annoying, but its a very large mod. However among all of this there is some good stuff in there. CUSTOM CHANGES: patches for Sunhelm, Milkmod, also some balance. You need to be Dragonborn officially for much of the quests to start.
+And quests : [Amorous adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/), [Book of Mara](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/), [Sisters of Dibella](https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/page/93/#comment-3462553), and some vanilla ones tweaked to include the [possibility](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) of sex. The big one is [Trouble of Heroine](https://www.loverslab.com/files/file/10454-troubles-of-heroine/), it adds NPCs with more or less big quests (like 3DNPCs) but it is optional because it is perhaps the most extreme one in this modlist (humiliation, rape, the whole shebang) and also lots of typos. By default I disabled the ones I tested that I found borderline or too annoying, but its a very large mod. However among all of this there is some good stuff in there. *CUSTOM CHANGES: patches for Sunhelm, Milkmod, also some balance. You need to be Dragonborn officially for much of the quests to start.*
 
 Aaand lots of ambiant stuff surrounding the dark and harsh society that is Skyrim during a civil war.
 
@@ -267,13 +267,11 @@ HUD layout information :
 ![alt text](https://github.com/ConsolidatedSky/NEFARAM/blob/main/hudinfo.png)
 
 # Known Bugs
-You should not have too many CTDs except in dense NPC areas however as I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable).
+I couldnt test thoroughly all the quests I put in there, so there might be some bugs there (especially the loverlab quests, full of good ideas but the execution is variable).
 
 Fighting with the arms bound has funky animations because Devious Devices was made for FNIS and this modlist uses Nemesis.
 
 If you try to sell equipped devious devices to merchants, you get the money and keep the device. So infinite money. So don't cheat. Or do it, its your game.
-
-When you first start your game animations will take a few seconds to register (T-Pose on NPCs). That is normal. If the legs move, you are good.
 
 # Updating the modlist
 

@@ -72,6 +72,9 @@ Vanilla outfits remodeled, and new ones that i tried to keep "lore-friendly" and
 ### Economy
 A lot of mods to make the game's economy feel alive with [prices fluctuations](https://www.nexusmods.com/skyrimspecialedition/mods/26325) depending on a lot of [factors](https://www.nexusmods.com/skyrimspecialedition/mods/23081). As you cannot invest in all skills you have opportunities for gold sinks to alleviates some of your weaknesses (No smithing? you can [order a new armor from a blacksmith](https://www.nexusmods.com/skyrimspecialedition/mods/51254) for example) as well as very creative loverslab money sinks...
 
+### Seasons
+NEFARAM uses the powerful [Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/62861) mod and others to create a different atmosphere throughout your playthrough. Each season lasts for 1 ingame month.
+
 ### Player Homes
 [Improved Vanilla Ones](https://www.nexusmods.com/skyrimspecialedition/mods/37236) + Creation Club houses with a couple mods to make them better. The costs in particular are higher.
 
@@ -81,7 +84,7 @@ A lot of mods to make the game's economy feel alive with [prices fluctuations](h
 Survival is an important aspect of this modlist, but your whole gameplay will not revolve around it if you plan a bit in advance. Do note that a lot of the placed food in the world is removed, you will no longer find centuries old bread in your nordic crypts.
 
 ### User Interface
-[Dear Diary Dark mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837),[TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) and others (see images at the bottom for example). Also [iEquip](https://www.nexusmods.com/skyrimspecialedition/mods/27008)
+[Dear Diary Dark mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837),[TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775), [iEquip](https://www.nexusmods.com/skyrimspecialedition/mods/27008) and others (see images at the bottom for example).
 
 ### And More
 [Lots](https://www.nexusmods.com/skyrimspecialedition/mods/37982) of [cities](https://www.nexusmods.com/skyrimspecialedition/mods/56731) and [villages](https://www.nexusmods.com/skyrimspecialedition/mods/35977) and landcapes overhauls, new [interiors](https://www.nexusmods.com/skyrimspecialedition/mods/6130) roleplay mods and animations... There is a lot of things that will be new and yet consistent with the game, to make hopefully one of the most fresh Skyrim experiences. Did you say you want to [become a bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357) ?
@@ -90,13 +93,11 @@ Survival is an important aspect of this modlist, but your whole gameplay will no
 
 ### Disclamer
 
-NOW WITH creature support.
+OPTIONAL creature support.
 
-Non-consent(Rape) is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. Usually if you notice a typo in dialogue that will lead to one of the loverslab mod with a sex scene... There is however slavery both of you and others but you will see it coming (more or less).
+Non-consent(Rape) is limited-ish and you usually have a way avoid it and have trade-offs, but due to the sheer number of loverslab mods there might be some scenarios that slipped through. There is however slavery both of you and others but you will see it coming (more or less).
 
 You need to be at least 18 Years Old to play the modlist.
-
-There are no mods for posing/screen archery. This is a modlist made for gameplay first and foremost but you can add your own pose mods if ya want.
 
 The situations depicted in the modlist do not represent any resemblance to reality and are obviously a fantasy and should stay that way.
 
@@ -195,17 +196,22 @@ Downloading and installing NEFARAM can take a while depending on your internet c
 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
-- Could not download x:
+- Could not download x :
 	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
 
-- Unable to download Tools_HavokBehaviorPostProcess_readme.txt (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|tools\havokbehaviorpostprocess\readme.txt)
+- Unable to download Tools_HavokBehaviorPostProcess_readme.txt (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.353.0|tools\havokbehaviorpostprocess\readme.txt) :
 	- Install the [Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 
-- Wabbajack could not find my game folder:
+- Missing Creation Club content (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.640.0|data\ccvsvsse004-beafarmer.esl) and others :
+	- Get the [Anniversary Edition](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/)
+	- If you did, then you need to run the base game at least once into the menu for it to download the files.
+
+- Wabbajack could not find my game folder :
 	- Either buy the game or go back to the [Pre-Installation](#pre-installation) step.
 
-- Antivirus reports a virus:
+- Antivirus reports a virus :
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+
 
 # Final Steps
 1. Open ModOrganizer.exe in the main folder of the modlist

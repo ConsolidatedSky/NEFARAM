@@ -209,8 +209,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 # Final Steps
 1. Open ModOrganizer.exe in the main folder of the modlist
-2. Click on 'Play NEFARAM' on the top right when you're ready !
-3. And finally load the savegame called 'NEFARAM_(Version)'. Press Enter when you're in the game, after that instructions will be on screen. The mod uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962?tab=description). I recommend you read the decription.
+2. You can enable or disable optional settings in the *OPTIONAL MODS* category in the left pane.
+3. Click on 'Play NEFARAM' on the top right when you're ready !
+4. And finally load the savegame called 'NEFARAM_(Version)'. Press Enter when you're in the game, after that instructions will be on screen. The mod uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962?tab=description). I recommend you read the decription.
 
 ## Final notes and tips (VERY IMPORTANT READ ALL) :
 
@@ -221,6 +222,8 @@ To play a male gender character, do the following :
 3. Press Escape > Mod Configuration > MCM Recorder > MALE CHARACTER
 4. Follow the instructions. You will get popups just click OK on them all.
 5. Done !
+
+There are other optional settings you can enable in the 'MCM Recorder' mod.
 
 I recommend to play as dragonborn in the Skyrim Unbound MCM, because a lot of NPCs and Quests will still reference you as dragonborn, unless you can make some RP about it (Some of the new followers can 'act' as Dragonborn as you will discover... ).
 
@@ -238,19 +241,15 @@ You can hide quests you dont want to do with [Hide your quests](https://www.nexu
 
 Press G for the Survival Wheel, with tons of useful actions to do. The 'Status' one especially.
 
-Children are disabled by default, if you want to re-enable them like for the aretino quest go to MCM > Sex Lab - Sexual Fame > Base Settings > Uncheck disable children.
-
 I removed most weird conditions like books to craft armors from mods or chests with the armors placed in the world : you usually need just the right smithing perk and sometimes a quest completed ([Stormcloak gear](https://www.nexusmods.com/skyrimspecialedition/mods/60530) if you join the stormcloaks, [Brotherhood bandoliers](https://www.nexusmods.com/skyrimspecialedition/mods/67796) if you join them etc...), at merchants, or worn by NPCs. [Here](https://github.com/ConsolidatedSky/NEFARAM/blob/main/NEFARAM_Crafts.txt) is the full list of changes.
 
-If you have some devices you can't take off talk to blacksmiths or to jailmasters in city jails.
+If you have some devices you can't take off talk to blacksmiths, fences, guards or jailmasters in city jails.
 
 Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay and balance changes, Like Sexlab Survival, by default I disabled something like 80% of the mod but you can reenable them, but be warned it becomes hardcore very quickly. However modify them at your own risk, for example if you reenable decapitations in Violens you will crash :)
 
 If suddenly you can't advance the main quest, it is due to [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
 
 Save often but not too much : **avoid saving during combat or just before you load through a door**. F5 now does a full save.
-
-When you want to dismiss a follower sometimes they are not dismissed, thats because they are still a Devious Follower. Mods using custom followers are the culprit of this, you can use the Devious Followers MCM to force remove your follower once you paid them in full.
 
 #### You're DONE ! You can finally play :)
 

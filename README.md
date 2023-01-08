@@ -231,7 +231,7 @@ To play a male gender character, do the following :
 
 There are other optional settings you can enable in the 'MCM Recorder' mod.
 
-I recommend to play as dragonborn in the Skyrim Unbound MCM, because a lot of NPCs and Quests will still reference you as dragonborn, unless you can make some RP about it (Some of the new followers can 'act' as Dragonborn as you will discover... ).
+I recommend playing as the dragonborn in the Skyrim Unbound MCM, because a lot of NPCs and Quests will still reference you as dragonborn, unless you can make some RP about it (Some of the new followers can 'act' as Dragonborn as you will discover... ).
 
 You can modify your body type with [OBody](https://www.nexusmods.com/skyrimspecialedition/mods/51084) (Press F10). Or others people's bodies man or woman if you aim at them with your crosshair.
 

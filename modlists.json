@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "NEFARAM",
-    "description": "NEFARAM is the next level of NSFW modlists. With lots of new content introduced in the world, expect an unforgiving world at your reach; but full of opportunities if you manage to seize them... The philosophy NEFARAM is tough, but fair, on every aspect of the game.",
+    "description": "NEFARAM is the next level of NSFW modlists. With lots of new content introduced, expect an unforgiving world at your reach, but full of opportunities if you manage to seize them...",
     "author": "ConsolidatedSky",
     "maintainers": [
       "github/ConsolidatedSky"
@@ -22,7 +22,7 @@
     "nsfw": true,
     "utility_list": false,
     "image_contains_title": true,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ConsolidatedSky/NEFARAM/main/logowithimage.jpg",

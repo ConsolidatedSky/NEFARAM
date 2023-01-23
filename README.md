@@ -148,14 +148,14 @@ It is recommended to have have Nexus Premium, or you will have to do a lot of cl
 ### Requirements
 Latest Version of Skyrim Anniversary Edition WITH all the paid Creation Club content : **>>>> [THIS](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/) <<<<**
 
-Check the [AVO Systems requirements](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/edit/main/Readme.md#system-requirements).
-NEFARAM requires a bit more CPU power than that, expect it to be ~20% more resource demanding than AVO. (Especially CPU heavy, due to the many Loverlab mods)
+Check the [AVO Systems requirements](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul#system-requirements).
+NEFARAM requires a more CPU power than that, expect it to be ~20% more resource demanding than AVO. As for the graphics card, 8GB Vram would be fine.
 
 **Increase your pagefile** (recommended : 40 GB).
 
 Size : 190 GB ( and another 200 for the downloads). Put the modlist on an SSD please.
 
-Made for keyboard playing, but some people in the discord server play with controllers with no problems
+Made for keyboard playing, but some people in the discord server play with controllers with no problems.
 
 ### Pre-Installation
 

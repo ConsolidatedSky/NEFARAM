@@ -184,7 +184,7 @@ Downloading and installing NEFARAM can take a while depending on your internet c
 5. Set the installation folder to be somewhere like C:\Games\NEFARAM. **Do not install it to your desktop or downloads folder.**
 6. The download location does not need to be on a SSD but it makes installing a bit faster
 7. Press the play button to begin.
-8. Some mods from Loverslab will have to be manually downloaded. Either do it via Wabbajack or you will find a complete list on the discord server.
+8. Some mods from Loverslab will have to be manually downloaded. Look on the top of windows that appear to know which files to download.
 9. If you have Nexus Premium you can just let it process (around 90 GB of files to download), if you're not then you need to get clicking !
 10. If the installation is successful, jump for joy and move onto [Final Steps](#final-steps). If the installation is unsuccessful, follow what is below.
 

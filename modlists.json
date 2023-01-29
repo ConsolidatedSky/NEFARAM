@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "NEFARAM",
     "description": "NEFARAM is the next level of NSFW modlists. With lots of new content introduced, expect an unforgiving world at your reach, but full of opportunities if you manage to seize them...",
     "author": "ConsolidatedSky",
@@ -23,23 +22,23 @@
     "image_contains_title": true,
     "force_down": true,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ConsolidatedSky/NEFARAM/main/logowithimage.jpg",
       "readme": "https://github.com/ConsolidatedSky/NEFARAM#readme",
-      "download": "https://authored-files.wabbajack.org/NEFARAM.wabbajack_a86b8421-7d53-4758-9a18-f2ca8b5e1d1f",
+      "download": "https://authored-files.wabbajack.org/NEFARAM.wabbajack_eb13f967-a7da-4809-8cc9-22e39bbd1ecf",
       "machineURL": "NEFARAM",
       "discordURL": "https://discord.gg/YXw5GxZEMd"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "cSEmtolBh88=",
-      "Size": 1636083142,
-      "NumberOfArchives": 1601,
-      "SizeOfArchives": 147677371432,
-      "NumberOfInstalledFiles": 260549,
-      "SizeOfInstalledFiles": 234794750196
+      "Hash": "3Qh9dTTgN2U=",
+      "Size": 1443927443,
+      "NumberOfArchives": 1605,
+      "SizeOfArchives": 147786984250,
+      "NumberOfInstalledFiles": 259168,
+      "SizeOfInstalledFiles": 234939296810
     },
-    "version": "0.8.1",
-    "RepositoryName": ""
+    "version": "0.8.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-01-29T13:04:41.5190186Z",
+    "repositoryName": ""
   }
 ]

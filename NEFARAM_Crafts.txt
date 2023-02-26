@@ -185,3 +185,10 @@ Queen Marika's Dress
 	Made into a late game flex outfit
 	You need 100 000 Gold in your inventory
 	Value increased a lot
+	
+[COCO] Mysterious Mage
+	Perk : Rare Smithing
+	Rebalanced to elven strengh
+	Considered bikini
+	Removed hair and staff
+	Renamed parts

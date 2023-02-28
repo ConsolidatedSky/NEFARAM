@@ -74,7 +74,7 @@ A lot of mods to make the game's economy feel alive with [prices fluctuations](h
 NEFARAM uses the powerful [Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/62861) mod and others to create a different atmosphere throughout your playthrough. Each season lasts for 1 ingame month.
 
 ### Player Homes
-[Improved Vanilla Ones](https://www.nexusmods.com/skyrimspecialedition/mods/37236) + Creation Club houses with a couple mods to make them better. The costs in particular are higher.
+[Improved Vanilla Ones](https://www.nexusmods.com/skyrimspecialedition/users/88670758?tab=user+files) + Creation Club houses with a couple mods to make them better. The costs in particular are higher.
 
 ### Other mods to be aware of :
 [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414), [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)

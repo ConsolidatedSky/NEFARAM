@@ -48,7 +48,7 @@ Full modlist : [Click Here](https://loadorderlibrary.com/lists/nefaram)
 
 ### Visuals
 Based on [Animonculary Visual Overhaul 1.3](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md) (very gorgeous yet performance friendly) modified.
-This modlist uses [Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/62861) a bunch of complimentary mods that will truly change the atmosphere in game. Each season last 30 days, so you will be able to experience them all in your playthrough.
+This modlist uses [Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/62861) and a bunch of complimentary mods that will truly change the atmosphere in game. Each season last 30 days, so you will be able to experience them all in your playthrough.
 
 ### Combat
 [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741?tab=description)

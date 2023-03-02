@@ -141,7 +141,7 @@ Northern God Armor
 	
 Stalhrim bikini
 	No book required
-	Advanced smithing + quest 'A New Source of Stalhrim'
+	Advanced smithing + Quest 'A New Source of Stalhrim'
 	
 Ayleid Piercings
 	Need diamond/saphire in inventory (same as original mod)
@@ -155,7 +155,7 @@ Dev Aveza
 	Beacon needs captain spell known
 
 Kaidan
-	Basic smithing for 'Wedding Attire'
+	Wedding Attire : Quest 'Big Wedding'
 	
 Adventurer Armor Mashup
 	Made some craftable with Basic smithing

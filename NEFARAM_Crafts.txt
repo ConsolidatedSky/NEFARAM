@@ -129,9 +129,9 @@ Twilight Princess armor
 	Nerfed books
 	Worn by Serana (also gave her a Dark Dagger instead of Elven)
 	
-Coco Pinup Cheongsam
+[COCO] Pinup Cheongsam
 	Book to craft sold by Nelacar (college)
-	Worn by Mirabelle Ervine
+	Default variant worn by Mirabelle Ervine
 	
 Northern God Armor
 	Now craftable
@@ -188,7 +188,6 @@ Queen Marika's Dress
 	
 [COCO] Mysterious Mage
 	Perk : Rare Smithing
-	Rebalanced to elven strengh
+	Rebalanced to elven strengh, removed hair and staff, renamed parts
 	Considered bikini
-	Removed hair and staff
-	Renamed parts
+	Default variantw orn by Sybille Stentor

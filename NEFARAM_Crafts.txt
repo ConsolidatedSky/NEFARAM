@@ -42,7 +42,7 @@ TEWOBA
 	
 Bandoliers
 	Basic smithing
-	Dark Brotherhood Bandoliers : Basic smithing + Dark Bortherhood quest 'Sanctuary'
+	Dark Brotherhood Bandoliers : Basic smithing + Dark Brotherhood quest 'Sanctuary'
 	Worn by bandits
 	
 Nocturnal Robes minidresses

@@ -191,3 +191,13 @@ Queen Marika's Dress
 	Rebalanced to elven strengh, removed hair and staff, renamed parts
 	Considered bikini
 	Default variantw orn by Sybille Stentor
+	
+[COCO] Witchiness
+	Clothing
+	Perk : Journeyman smithing
+	Black variant worn by witches rarely
+	
+[COCO] Shadow Assassin
+	Light armor
+	Perk Journeyman Smithing + Quest 'sanctuary'
+	Considered bikini, nerfed values

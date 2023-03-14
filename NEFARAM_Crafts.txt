@@ -29,7 +29,7 @@ Demon Hunter Armor
 TAWOBA
 	Sold by blacksmiths
 	All books removed, only need corresponding material perk except :
-	Wolf Bikini : Intermediate smithing + Companion Quest 'Proving Honor'
+	Wolf Bikini : Journeyman smithing + Companion Quest 'Proving Honor'
 	Blades Bikini : Journeyman smithing + Main Quest 'Alduin's Wall'
 	Thalmor Variant of Elven : Rare smithing + Quest 'Missing in Action'
 	Falmer Bikini : Need Book

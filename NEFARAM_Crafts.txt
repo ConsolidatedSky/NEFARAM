@@ -189,7 +189,6 @@ Queen Marika's Dress
 [COCO] Mysterious Mage
 	Perk : Rare Smithing
 	Rebalanced to elven strengh, removed hair and staff, renamed parts
-	Considered bikini
 	Default variantw orn by Sybille Stentor
 	
 [COCO] Witchiness
@@ -200,4 +199,4 @@ Queen Marika's Dress
 [COCO] Shadow Assassin
 	Light armor
 	Perk Journeyman Smithing + Quest 'sanctuary'
-	Considered bikini, nerfed values
+	Nerfed values

@@ -85,7 +85,7 @@ Knight of the Village
 Vanilla Chokers and earrings
 	Worn by NPCs custom and random
 	Perk : Journeyman smithing
-	Articualtion choker/earrings : Journeyman smithing + Thieves quest 'Under New Management'
+	Articulation choker/earrings : Journeyman smithing + Thieves quest 'Under New Management'
 
 DX Ancient Draugr
 	Perk : Advanced smithing
@@ -198,5 +198,14 @@ Queen Marika's Dress
 	
 [COCO] Shadow Assassin
 	Light armor
-	Perk Journeyman Smithing + Quest 'sanctuary'
+	Perk : Journeyman Smithing + Quest 'sanctuary'
 	Nerfed values
+	
+Loot & deg
+	Can craft equipment repair kit at forge, sold by blacksmiths
+
+Akaviri Hats
+	Perk : Basic smithing
+	+ Main Quest 'Alduin's Wall' for Blades variants
+	Sold by khajits
+	

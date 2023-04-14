@@ -23,8 +23,8 @@ CHANGES IN VANILLA OUTFITS
 	Arcane archer pack (creation club)
 		Journeyman smithing
 
-Demon Hunter Armor
-	Advanced smithing
+Tamriel Distribution
+	Some Creation Club Items are now sold by vendors, mostyly Khajiit caravans, and East Empire company traders
 
 TAWOBA
 	Sold by blacksmiths
@@ -72,6 +72,9 @@ Girls Heavy Armor
 
 Bretonic Leather Armor
 	Basic smithing
+
+Demon Hunter Armor
+	Advanced smithing
 	
 Stormcloak Warmaiden
 	Basic smithing + Join the Stormcloaks

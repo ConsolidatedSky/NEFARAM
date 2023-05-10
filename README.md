@@ -249,8 +249,6 @@ If you have some devices you can't take off talk to blacksmiths, fences, guards 
 
 Feel free to edit the MCMs of mods, most do not pose issues apart from gameplay and balance changes, Like Sexlab Survival, by default I disabled something like 80% of the mod but you can reenable them, but be warned it becomes hardcore very quickly. However modify them at your own risk, for example if you reenable decapitations in Violens you will crash :)
 
-If suddenly you can't advance the main quest, it is due to [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
-
 Save often but not too much : **avoid saving during combat or just before you load through a door**. F5 now does a full save.
 
 #### You're DONE ! You can finally play :)

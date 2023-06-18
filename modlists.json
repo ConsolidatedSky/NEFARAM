@@ -7,8 +7,9 @@
       "github/ConsolidatedSky"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "NSFW",
       "Survival",
       "Creation Club",

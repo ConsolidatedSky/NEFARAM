@@ -28,14 +28,14 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ConsolidatedSky/NEFARAM/main/logowithimage.jpg",
       "readme": "https://github.com/ConsolidatedSky/NEFARAM/wiki",
-      "download": "https://authored-files.wabbajack.org/NEFARAM.wabbajack_8bb63946-eace-4498-8624-210a6de6cb99",
+      "download": "https://authored-files.wabbajack.org/NEFARAM.wabbajack_8a1299da-cf4c-43d1-b871-7ffa32b7ae67",
       "machineURL": "NEFARAM",
       "discordURL": "https://discord.gg/YXw5GxZEMd",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "dU9jpHdmxu8=",
-      "Size": 1573558796,
+      "Hash": "iCCdPomOA5g=",
+      "Size": 1573558139,
       "NumberOfArchives": 2271,
       "SizeOfArchives": 233123934919,
       "NumberOfInstalledFiles": 322841,
@@ -44,7 +44,7 @@
     },
     "version": "16.0.8",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-09-29T11:11:28.9165106Z",
+    "dateUpdated": "2025-09-29T11:27:42.9123914Z",
     "repositoryName": ""
   }
 ]

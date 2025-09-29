@@ -1,6 +1,8 @@
 ![alt text](https://raw.githubusercontent.com/ConsolidatedSky/NEFARAM/main/16by9.png)
 
-![alt text](https://raw.githubusercontent.com/ConsolidatedSky/NEFARAM/refs/heads/main/18.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ConsolidatedSky/NEFARAM/refs/heads/main/18.jpg" />
+</p>
 
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]

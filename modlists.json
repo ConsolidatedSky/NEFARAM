@@ -24,7 +24,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/ConsolidatedSky/NEFARAM/main/logowithimage.jpg",
       "readme": "https://github.com/ConsolidatedSky/NEFARAM/wiki",
@@ -48,4 +48,5 @@
     "dateUpdated": "2026-03-11T20:24:25.4783106Z",
     "repositoryName": ""
   }
+
 ]
